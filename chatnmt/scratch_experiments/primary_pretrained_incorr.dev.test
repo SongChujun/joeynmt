@@ -7,18 +7,18 @@ Toll , ich habe den Termin für Montag gebucht . Bitte geben Sie Ihr Auto vor 8 
 Sicher , ich werde sie Ihnen jetzt geben .	11.953866004943848	4.72184944152832
 Toll , ich habe die Tickets für Sie gekauft .	11.495870590209961	7.253693580627441
 Die Tickets werden in Kürze an Ihr Telefon gesendet .	11.782478332519531	5.650886535644531
-Leider ist es ausverkauft .	11.783733367919922	5.96835994720459
+Leider ist es ausverkauft .	11.783733367919922	0.7880190014839172
 Hallo , was kann ich heute für Sie tun ?	11.541277885437012	1.7598024606704712
 Es gibt ein besonders gutes in Ihrer Nähe .	11.41775131225586	0.39941325783729553
 Was ist das Problem mit dem Auto ?	11.788516998291016	1.196349024772644
 und wissen Sie , wo die Werkstatt ist ?	11.454483032226562	2.201347827911377
-Es ist eine Meile nördlich des City Center .	12.255097389221191	6.770691394805908
+Es ist 200 Meter nördlich des City Center .	12.206267356872559	6.905558109283447
 Robert Rodriguez hat es gedreht .	11.746505737304688	7.838239669799805
 Robert Rodriguez hat es gedreht .	11.746505737304688	7.838239669799805
 Hallo , wie kann ich Ihnen helfen ?	11.335604667663574	3.4525222778320312
 Ok , lassen Sie mich ein Kino in Ihrer Nähe finden .	11.438928604125977	4.835214614868164
 Irgendwelche Präferenzen im Kino ?	11.524839401245117	0.06822079420089722
-Okay , die nächste verfügbare Zeit , die ich gefunden habe , ist bei SilverCity Windsor Cinemas um 18 : 40 Uhr .	12.968042373657227	2.6654469966888428
+Okay , die nächste verfügbare Zeit , die ich gefunden habe , ist bei SilverCity Windsor Cinemas um 18 : 40 Uhr .	12.968042373657227	0.9897675514221191
 Okay , wie viele Tickets ?	11.851235389709473	2.130403757095337
 Der Gesamtbetrag für ein Ticket beträgt 14,33 $ .	12.083316802978516	10.989301681518555
 Ok , es ist 13 : 50 Uhr . Wie viele Tickets brauchen Sie ?	11.623279571533203	-2.212581157684326
@@ -36,8 +36,8 @@ Ich habe es storniert .	12.50000286102295	4.501949310302734
 Es ist um 16 : 15 Uhr ! Passt ihnen das ?	11.53857421875	-1.7829581499099731
 Ja , Sie sind fertig und Sie bekommen es per Handy .	11.028543472290039	2.3853187561035156
 ok und welche Art von Essen möchten Sie ?	11.270445823669434	2.6090264320373535
-Sicher , einfache herzhafte Gerichte .	12.215003967285156	5.578305244445801
-Lassen Sie mich es Ihnen sofort mitteilen .	11.780290603637695	3.3552565574645996
+Sicher , einfache herzhafte Gerichte .	12.215003967285156	4.549088954925537
+Lassen Sie mich es Ihnen sofort mitteilen .	11.780290603637695	5.200435638427734
 Es wird eine Inspektionsgebühr in Höhe von 89 $ in diesem Shop erhoben .	10.662446022033691	3.4780850410461426
 Sind Sie damit einverstanden , es zu zahlen ?	11.97076416015625	5.391579627990723
 Großartig . Und welche Art von Fahrt wollten Sie , Uber oder Lyft ?	11.301814079284668	5.718613624572754
@@ -47,30 +47,30 @@ Für wie viele Personen ist es ?	11.828968048095703	4.742840766906738
 Es gibt keine andere Option .	12.261527061462402	4.1229329109191895
 Es gibt nur eins .	12.496487617492676	4.337708950042725
 Ok , bitte beachten Sie , dass dies kein Trinkgeld für den Fahrer enthält .	11.905396461486816	11.559988021850586
-Ja , das ist mehr als großartig .	11.412898063659668	4.984284400939941
+Ja , das ist mehr als großartig .	11.412898063659668	2.758270740509033
 Können Sie bitte ihren Namen wiederholen ?	11.944514274597168	2.2193610668182373
-Es wird von Rebel Wilson gespielt .	11.862166404724121	7.448283672332764
-Es wird von Rebel Wilson gespielt .	11.862166404724121	7.448283672332764
+Es wird von Rebel Wilson gespielt .	11.862166404724121	7.387214183807373
+Es wird von Rebel Wilson gespielt .	11.862166404724121	7.387214183807373
 Wo ist der Abgabeort ?	12.268744468688965	5.391426086425781
-Ich kann es in unserem System nicht finden .	11.192917823791504	6.224399566650391
+Ich kann es in unserem System nicht finden .	11.192917823791504	8.207168579101562
 Das einzige , das jetzt zeigt , ist Aquaman .	12.033559799194336	6.125896453857422
 Das einzige , das jetzt zeigt , ist Aquaman .	12.033559799194336	6.125896453857422
 Gibt es noch andere Kriterien , die für Sie wichtig sind ?	11.556227684020996	7.6590352058410645
-ok , Sie wollen eins , das erschwinglich ist .	11.577022552490234	11.76026725769043
-Ok , Sie möchten eine lockere Vorstellung .	11.543079376220703	3.1078503131866455
-Ok , Sie möchten eine lockere Vorstellung .	11.543079376220703	3.1078503131866455
+ok , Sie wollen eins , das erschwinglich ist .	11.577022552490234	2.881993055343628
 Ok , Sie möchten eine lockere Vorstellung .	11.543079376220703	11.547778129577637
 Ok , Sie möchten eine lockere Vorstellung .	11.543079376220703	11.547778129577637
-Ja , ich habe noch einen anderen .	12.32020378112793	3.5626652240753174
+Ok , Sie möchten eine lockere Vorstellung .	11.543079376220703	11.547778129577637
+Ok , Sie möchten eine lockere Vorstellung .	11.543079376220703	11.547778129577637
+Ja , ich habe noch einen anderen .	12.32020378112793	2.2376174926757812
 Ok , das ist außerhalb der Stadtgrenze und es gibt eine zusätzliche Gebühr .	11.61386489868164	11.73353099822998
 Ok , das ist außerhalb der Stadtgrenze und es gibt eine zusätzliche Gebühr .	11.61386489868164	11.73353099822998
 Was möchten Sie bestellen ?	12.109705924987793	0.2283000648021698
-Es kostet 2 $ pro Pizza .	12.011314392089844	7.706813812255859
+Es kostet 2 $ pro Pizza .	12.011314392089844	6.614133834838867
 Was möchten Sie bestellen ?	12.109705924987793	0.2283000648021698
-Es kostet 2 $ pro Pizza .	12.011314392089844	7.706813812255859
-Sie erhalten eine Benachrichtigung , wenn der Fahrer auf dem Weg ist , Sie abzuholen .	12.449360847473145	12.528993606567383
+Es kostet 2 $ pro Pizza .	12.011314392089844	6.614133834838867
+Sie erhalten eine Benachrichtigung , wenn der Fahrer auf dem Weg ist , Sie abzuholen .	12.449360847473145	7.607189655303955
 Sie haben es schon verstanden ?	11.704052925109863	1.0165499448776245
-Sie erhalten eine Benachrichtigung , wenn der Fahrer auf dem Weg ist , Sie abzuholen .	12.449360847473145	12.528993606567383
+Sie erhalten eine Benachrichtigung , wenn der Fahrer auf dem Weg ist , Sie abzuholen .	12.449360847473145	7.607189655303955
 Sie haben es schon verstanden ?	11.704052925109863	1.0165499448776245
 Toll , können Sie mir bitte das Jahr Ihres Autos mitteilen ?	11.535675048828125	3.2420997619628906
 Ok , Sie können mir später davon Bescheid geben .	11.61947250366211	2.054715871810913
@@ -79,25 +79,25 @@ Ok , Sie können mir später davon Bescheid geben .	11.61947250366211	2.05471587
 Wann passt es für Sie ?	11.699267387390137	-1.0793484449386597
 Wann passt es für Sie ?	11.699267387390137	-1.0793484449386597
 Wie kann ich Ihnen heute helfen ?	11.626164436340332	3.2393689155578613
-Dieser Film ist überholt .	11.96921157836914	1.1582667827606201
-Ich habe zwei Optionen gefunden . Die erste ist ein italienisches Restaurant und die zweite ist mexikanisch , beide mit Sitzgelegenheiten im Freien .	13.771424293518066	3.4753646850585938
+Dieser Film ist überholt .	11.96921157836914	10.823661804199219
+Ich habe zwei Optionen gefunden . Die erste ist ein italienisches Restaurant und die zweite ist mexikanisch , beide mit Sitzgelegenheiten im Freien .	13.771424293518066	6.172718048095703
 Die Angebote im mexikanischen Restaurant können heiß sein .	11.523262977600098	6.642751693725586
 Womit kann ich Ihnen behilflich sein ?	11.855710983276367	-0.2534920573234558
-Sie sollen gut sein .	11.992141723632812	0.43160828948020935
+Sie sollen gut sein .	11.992141723632812	5.315238952636719
 Womit kann ich Ihnen behilflich sein ?	11.855710983276367	-0.2534920573234558
 Sie sollen gut sein .	11.992141723632812	0.43160828948020935
 Womit kann ich Ihnen behilflich sein ?	11.855710983276367	-0.2534920573234558
 Sie sollen gut sein .	11.992141723632812	0.43160828948020935
-Ja . Es ist schön für Kinder .	10.956853866577148	3.59839129447937
+Ja . Es ist schön für Kinder .	10.956853866577148	5.078263282775879
 Großartig , Sie können es an der Theke abholen .	11.176067352294922	4.106549263000488
 Ja , es hat gute Kritiken .	11.58670711517334	4.027534484863281
 Ja , es hat gute Kritiken .	11.58670711517334	4.027534484863281
 Womit kann ich Ihnen behilflich sein ?	11.582756996154785	0.16695263981819153
-Natürlich kann ich Ihnen dabei helfen .	11.413558006286621	4.274809837341309
+Natürlich kann ich Ihnen dabei helfen .	11.413558006286621	0.20279735326766968
 Wir sind draußen .	11.916738510131836	1.0506740808486938
 Wir sind draußen .	11.916738510131836	1.0506740808486938
-Hier . Genießen Sie es .	11.669715881347656	3.815199613571167
-Hier . Genießen Sie es .	11.669715881347656	3.815199613571167
+Hier . Genießen Sie es .	11.669715881347656	2.7984836101531982
+Hier . Genießen Sie es .	11.669715881347656	2.7984836101531982
 Ich habe es storniert .	12.526652336120605	5.550410270690918
 Ich habe es storniert .	12.526652336120605	5.550410270690918
 Es gibt nur eins in Winnsboro .	11.847190856933594	12.005250930786133

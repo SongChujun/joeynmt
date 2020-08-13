@@ -6,7 +6,8 @@ data:
     trg: "de"
     train: "chatnmt/official_split/wmt17bpe__boundaries_news/train.news.tags.bpe.wmt-ende-best"
     dev: "chatnmt/official_split/wmt17bpe__boundaries_news/dev.tags.bpe.wmt-ende-best"        # development data for validation
-    test: "chatnmt/coher/coherCorrTest.tags.bpe.wmt-ende-best"
+    #test: "chatnmt/coher/coherCorr_rev_boundaries.tags.bpe.wmt-ende-best"
+    test: "chatnmt/coher/coherIncorr_rev_boundaries.tags.bpe.wmt-ende-best"
     level: "bpe"
     lowercase: False
     max_sent_length: 100

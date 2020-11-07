@@ -109,8 +109,8 @@ def validate_on_data(model: Model, data: Dataset,
 
             # sort outputs back to original order
             all_outputs.extend(output[sort_reverse_index])
-            all_target_output_scores.extend(target_scores[sort_reverse_index])
-            all_hyp_output_scores.extend(generated_scores[sort_reverse_index])
+            all_target_output_scores.extend(target_scores[sort_reverse_index] if target_scores is not None else [])
+            all_hyp_output_scores.extend(generated_scores[sort_reverse_index] if generated_scores is not None else [])
             valid_attention_scores.extend(
                 attention_scores[sort_reverse_index]
                 if attention_scores is not None else [])

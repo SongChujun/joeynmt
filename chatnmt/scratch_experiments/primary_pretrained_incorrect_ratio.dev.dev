@@ -1,0 +1,1041 @@
+Greedy Translation	Hypothesis Score	Reference Score
+Hallo , wie kann ich Ihnen helfen ?	11.563277244567871	7.0131096839904785
+Ok , nach welcher Art von Restaurant suchen Sie ?	11.570329666137695	4.785755157470703
+Klar , geben Sie mir eine Sekunde . Ich werde gleich mit ein paar Optionen sein .	10.815579414367676	2.819723129272461
+Ich habe Folgendes gefunden : Seasons 52 , eine wechselnde Speisekarte mit saisonalen amerikanischen Gerichten zusammen mit internationalen Weinen in einer gehobenen Umgebung . Ich habe auch Folgendes gefunden : Pluto ' s : eine lokale Kette mit Gegenservice , die selbst Salate & Sandwiches in einer lässigen , modernen Umgebung anbietet .	13.765539169311523	-1.756439447402954
+Ja , tun sie .	12.27037239074707	5.752144813537598
+Sie alle haben einen durchschnittlichen Preis .	12.040984153747559	3.9949047565460205
+Ja , Sie können es bei Pluto ' s buchen .	11.50577163696289	2.0114002227783203
+Klar , möchten Sie ihre Telefonnummer ?	11.975963592529297	7.356444358825684
+Es ist ( 916 ) 921-2500 . Soll ich das wiederholen ?	11.175785064697266	1.966611623764038
+Gern geschehen , tschüss .	11.897870063781738	1.1143252849578857
+Hallo , wie kann ich heute helfen ?	11.511259078979492	6.623852729797363
+Klar , Aquaman ist eine gute Wahl . Wo wollen Sie ihn sehen ?	10.825151443481445	2.537972927093506
+Großartig , Regal Cinemas Meridian 16 zeigt Aquaman zu folgenden Zeiten . 14 : 40 Uhr , 19 : 10 Uhr und 21 : 30 Uhr .	10.562424659729004	4.010822772979736
+Passt eine davon für Sie ?	11.966503143310547	3.344630718231201
+Und haben Sie gesagt , Sie brauchen 2 Tickets ?	11.713414192199707	3.370419502258301
+2 Tickets für Aquaman um 19 : 10 Uhr im Regal Cinemas Meridian 16 kosten 24 $ .	11.031411170959473	10.871207237243652
+Wollten Sie die Zahlung jetzt bearbeiten ?	11.562582015991211	1.9729385375976562
+Entschuldigung , ich bin mir nicht sicher .	11.916112899780273	3.5021109580993652
+Großartig , ich habe Ihre Tickets gebucht . Sie werden derzeit auf Ihrem Telefon verfügbar sein .	10.788467407226562	0.41400474309921265
+Brauchen Sie sonst noch etwas ?	11.676092147827148	-0.4434405565261841
+Wunderbar , viel Spaß .	11.558121681213379	8.064663887023926
+Hallo .	12.55105972290039	2.0630784034729004
+Okay , wie ist das ?	12.041666030883789	2.519460439682007
+Hatten Sie ein Kino im Sinn ?	11.848586082458496	3.1831328868865967
+Großartig . Es gibt drei Vorstellungen , 4 , 7 und 21 : 40 .	11.270444869995117	2.9785635471343994
+Großartig , ich werde sehen , ob die 21 : 40 Uhr Vorstellung Tickets zur Verfügung hat .	11.270951271057129	5.989524841308594
+Das ist also 1 Ticket zum Glass bei Zeus Digital für 21 : 40 Uhr , richtig ?	11.372304916381836	0.3322138786315918
+2 Stunden , 9 Minuten .	12.463144302368164	1.398133635520935
+Hm ... es sieht so aus , als ob die Vorstellung ausverkauft ist . Ich kann stornieren oder ein anderes Kino ausprobieren .	11.937588691711426	3.064141273498535
+Okay , Ihre Karte wurde nicht belastet . Haben Sie einen schönen Tag .	10.661589622497559	2.992455244064331
+Vielen Dank .	12.345151901245117	1.0142488479614258
+Hallo .	12.302348136901855	5.546165466308594
+Gut , danke für die Nachfrage .	11.658817291259766	-1.9806345701217651
+Womit kann ich Ihnen behilflich sein ?	11.477478981018066	4.174857139587402
+Sicher . Was möchten Sie gerne ?	11.360444068908691	-1.22134268283844
+Das sind also 2 kleine Pizzen , eine Fleischliebhaber , kein Canadian Bacon , eine Hälfte Peperoni , beide dünne Kruste , richtig ?	13.350049018859863	-0.5126115083694458
+Richtig ! Großartig . Ihre Summe ist $ 30.84 und es wird in 30 Minuten fertig sein .	10.848226547241211	0.3756945729255676
+Kein Problem , viel Spaß .	11.58829116821289	-1.3979542255401611
+Gleichfalls !	12.157167434692383	0.7547287344932556
+Hallo , was möchten Sie heute machen ?	11.652549743652344	5.755668640136719
+Ort zum Mittagessen in Sacramento , Kalifornien ist das Richtige .	11.127068519592285	0.05528116226196289
+Ok , in welchem Stadtteil ?	11.776081085205078	-1.0772477388381958
+L St & 19th St. verstanden .	11.302590370178223	0.6327008008956909
+Welche Art von Essen möchten Sie essen ?	11.332929611206055	0.21502578258514404
+Mexican Cuisine , ok , alle Merkmale , die ich beachten soll .	11.303277015686035	-0.15736478567123413
+Eindringliche Atmosphäre , vernünftige Preise mit guten Bewertungen , verstanden .	10.992121696472168	4.173051357269287
+Ok , lassen Sie mich sehen , welche 2 besten Optionen ich für Sie finden kann .	11.175520896911621	4.506081581115723
+Wir haben Zocalo Midtown Roomy , elegantes Restaurant & Bar mit modernen mexikanischen Gerichten , klassischen Margaritas & Wochenend-Brunch .	12.376826286315918	2.3694868087768555
+Und ein anderes ist das Mayahuel Spacious Restaurant mit gehobener mexikanischer Küche & einer umfangreichen Tequila-Speisekarte in stilvollem Ambiente .	12.83786678314209	0.2517869472503662
+Was möchten Sie über jedes Restaurant wissen ?	11.646398544311523	0.5161703824996948
+Beide haben eine Sternebewertung von 4,4 .	11.644523620605469	-1.3631333112716675
+Mayahuel ist mit moderaten Preisen im Durchschnitt 15-20 Dollar pro Person .	11.338004112243652	12.952157974243164
+Mayahuel hat einen kleinen , vertraulichen , aber stilvollen Raum mit Bartresen .	10.455562591552734	4.48020076751709
+Mayahuel , sicher , welche Informationen benötigen Sie für das Restaurant ?	11.473267555236816	12.404183387756348
+Ok ihre Telefonnummer ist ( 916 ) 441-7200 .	12.133312225341797	5.688774108886719
+Möchten Sie zusätzliche Hilfe ?	11.674381256103516	4.460709571838379
+Großartig , genießen Sie den Rest Ihres Tages .	11.10875129699707	5.356328964233398
+Hallo , wie kann ich Ihnen helfen ?	11.188796997070312	5.387815475463867
+Okay , Starbucks in Hollywood . Was möchten Sie trinken ?	10.865924835205078	0.8105753064155579
+sicher . Grande Americano ist es !	11.23935604095459	4.941950798034668
+Irgendeine Milchpräferenz ?	12.202256202697754	-0.4300885796546936
+2 % Milch für Ihren Grande Americano .	11.452826499938965	-1.0059734582901
+Wollten Sie extra Schlagsahne ?	12.096943855285645	2.596428155899048
+Okay , ich werde sicherstellen , dass sie das bekommen .	11.311610221862793	-1.4324709177017212
+Möchten Sie noch etwas anderes ?	11.634040832519531	-0.5145888328552246
+Okay , mit einem Bagel .	11.878474235534668	-1.8451018333435059
+Also , ich habe einen Bagel und einen großen Americano mit 2 % Milch und extra Schlagsahne , ist das richtig ?	12.170159339904785	0.8081145882606506
+Okay , Ihr Kaffee steht in 37 Minuten beim Hollywood-Starbucks zur Abholung bereit .	11.833039283752441	9.379807472229004
+Viel Spaß !	11.643904685974121	0.7878541946411133
+Hallo , wie kann ich Ihnen helfen ?	11.188796997070312	5.387815475463867
+Ok , nach welcher Art von Restaurant suchen Sie ?	11.698131561279297	-1.4150938987731934
+Sicher , geben Sie mir eine Sekunde , während ich das für Sie suche .	11.310395240783691	2.9686055183410645
+Ich habe Seasons 52 gefunden : Wechselnde Speisekarte mit saisonalen amerikanischen Gerichten zusammen mit internationalen Weinen in einer gehobenen Umgebung . Und das BJ ' s Restaurant & Brewhouse : Der familienfreundliche Kettenaussenposten kombiniert bekannte Pub-Gerichte mit einer umfangreichen Liste von Hausgebräuen .	13.690790176391602	-0.09553606808185577
+Ja , das tun sie . Lokale und saisonale Biere .	11.294432640075684	11.711699485778809
+Sie servieren moderne amerikanische Gerichte .	11.566843032836914	-0.08597948402166367
+Die Cheesecake Factory : Amerikanisches Kettenrestaurant mit umfangreichen Menüs , darunter auch Käse .	9.823362350463867	-0.03563922643661499
+Ja , tun sie .	12.24070930480957	5.190718173980713
+in Ordnung . Ihre Nummer lautet ( 916 ) 567-0606 .	11.89270305633545	1.706161618232727
+Gern geschehen , tschüss !	11.36085319519043	3.338606119155884
+Hallo , wie kann ich Ihnen helfen ?	11.398192405700684	0.5416151881217957
+sicher , woher ?	11.580647468566895	2.8582375049591064
+Welche Art von Belägen möchten Sie hinzufügen ?	11.640419960021973	0.4283793270587921
+Ok , lassen Sie mich diese Bestellung Ihnen wiederholen .	11.117252349853516	4.463092803955078
+3 große Pizzen , 2 Veggie-Lovers , 1 Hähnchen Alfredo .	10.679832458496094	3.1247634887695312
+Ok , lassen Sie mich das der Bestellung hinzufügen .	11.155330657958984	11.081496238708496
+3 große Pizzen mit dünner Kruste , 2 Veggie-Lovers , 1 Hähnchen Alfredo .	10.169044494628906	-1.8555262088775635
+Toll , möchten Sie irgendwelche Getränke oder Getränke hinzufügen ?	10.992525100708008	-1.0068589448928833
+Ok , Ihre Summe wird 72 $ betragen . Ist das in Ordnung ?	10.962725639343262	3.2158279418945312
+Ihre Quittung wird Ihnen per SMS zugeschickt .	11.568464279174805	1.1533807516098022
+Und werden Sie vor Ort essen , abholen oder es liefern lassen ?	11.006604194641113	2.0826973915100098
+Ok , es ist in 20 Minuten abholbereit .	11.007829666137695	4.959661960601807
+Kann ich mit irgendetwas anderem helfen ?	11.294260025024414	0.8473780155181885
+Ok , genießen Sie Ihre Pizza .	11.371728897094727	3.0092952251434326
+Hallo , wie geht es Ihnen ?	11.567885398864746	4.761538028717041
+Sicher . Wie lautet der Name für Ihren Termin ?	11.127655982971191	2.215473175048828
+Wie buchstabiert man das ?	11.780951499938965	2.696526288986206
+Großartig , und ich brauche auch eine Telefonnummer .	11.192239761352539	1.4667149782180786
+Das ist also Jeff unter 555 213 4615 .	11.898455619812012	-1.348771333694458
+Großartig . Was ist los mit dem Auto ?	11.531404495239258	7.003261566162109
+Großartig , wissen Sie jetzt , wo die Werkstatt ist ?	10.96264934539795	1.833866000175476
+Großartig .	12.340051651000977	-0.40551427006721497
+Wir müssen also jetzt ein Datum dafür auswählen . Das Geschäft verlangt , dass Sie das Auto am Tag Ihres Termins um 8 : 30 Uhr abgeben .	11.042515754699707	0.42191794514656067
+Okay , perfekt . Und wissen Sie von der Inspektionsgebühr Bescheid ?	10.783782005310059	7.219316482543945
+Ja .	12.546828269958496	3.157721996307373
+Das ist ein Termin für einen 2014 Acura RDX , der morgen um 8 : 30 Uhr wegen eines Motorlärms gesehen wird .	10.560201644897461	0.3344026803970337
+Großartig ! Wir sind fertig . Einen schönen Tag noch .	10.249156951904297	5.297667026519775
+Hallo . Wie kann ich Ihnen helfen ?	11.218043327331543	-1.1799041032791138
+sicher . Wo soll ich nach Tickets suchen ?	11.052868843078613	2.4006247520446777
+Verstanden . Und haben Sie eine Zeitpräferenz ?	11.019326210021973	3.269580841064453
+in Ordnung . Lassen Sie mich das für Sie untersuchen .	11.317798614501953	-0.07083725929260254
+Happy Death Day 2U zeigt im Regal Cinemas Meridian 16 um 13 : 40 Uhr für 4 Tickets , es wird 35 $ kosten .	10.947443008422852	1.9519062042236328
+Wollten Sie , dass ich das jetzt für Sie buche ?	11.331632614135742	5.780495643615723
+Leider ist diese Vorstellung ausverkauft . Wollten Sie , dass ich woanders nach einer anderen Vorstellung suche , die bald ansteht ? oder wollen Sie stornieren ?	11.270035743713379	-1.7624231576919556
+Der amc pazifische Ort 11 zeigt Happy Deathly Day 2u um 12 : 25 Uhr . Diese Vorstellung ist tatsächlich in Ordnung . Wollten Sie stattdessen dieses Kino und die Vorstellungszeit buchen ?	11.827651977539062	2.172849178314209
+Toll , die Summe ist die gleiche , $ 35. Ich werde die Tickets jetzt für Sie buchen ?	10.672294616699219	9.77536392211914
+Die Tickets werden in Kürze an Ihr Telefon gesendet .	11.33700942993164	1.1649754047393799
+Brauchen Sie sonst noch etwas ?	11.32492446899414	0.6439162492752075
+Die Laufzeit beträgt 1 Stunde und 40 Minuten .	11.819108009338379	0.4170606732368469
+Toll , passen Sie auf sich auf .	11.778160095214844	0.9610127210617065
+Hallo , wie kann ich JoU helfen ?	11.500252723693848	4.107715606689453
+Okay , welche Werkstatt wollten Sie verwenden ?	11.702384948730469	4.914295196533203
+Großartig . Sie berechnen 89 $ für die Inspektionsgebühr .	11.174163818359375	13.892890930175781
+Kann ich einen Namen für den Termin bekommen ?	11.453292846679688	3.9890894889831543
+Wie buchstabiert man das ?	12.25931167602539	0.2451993227005005
+Großartig , und wie lautet die Telefonnummer , die ich für den Termin verwenden kann ?	11.231925964355469	12.486533164978027
+Der Termin ist also für John Smith , 972 555 5151 ist das richtig ?	11.121341705322266	0.7665748596191406
+Großartig , was ist das Problem mit Ihrem Auto ?	11.151256561279297	2.785958766937256
+Verstanden , ich werde das als Generalinspektion einstufen .	10.99659252166748	3.7510290145874023
+Welche Art von Auto ist das ?	11.94110107421875	-1.1543583869934082
+Alles klar , großartig , es ist die Geschäftsrichtlinie , dass Sie das Auto bis 8 : 30 Uhr am Tag Ihres Termins abgeben . Können Sie mir sagen , wann Sie das untersuchen lassen möchten ?	12.156418800354004	13.823932647705078
+Alles klar . Der nächste verfügbare Tag ist Montag , der 11. , okay ?	10.612043380737305	3.2078723907470703
+Großartig ! Wissen Sie , wo die Werkstatt ist ?	10.964049339294434	7.349081039428711
+Ihr 2013 Honda Pilot ist also einer allgemeinen Inspektion und wird am Montag , den 11. um 8 : 30 Uhr gezeigt . Sie werden angerufen , wenn es fertig ist .	10.213033676147461	0.8877098560333252
+Kein Problem . Einen schönen Tag noch .	10.60213565826416	2.8331942558288574
+Hallo , wie kann ich Ihnen helfen ?	11.243857383728027	3.1521482467651367
+Verstanden . Wo in Oakland soll der Uber-Fahrer Sie abholen ?	11.972013473510742	12.174518585205078
+in Ordnung . Und was ist das Ziel ?	11.403834342956543	0.2838442325592041
+Welche Art von Fahrt wollten Sie und wie viele sind in Ihrer Gruppe ?	10.865802764892578	-0.028872162103652954
+Für ein XL für 4 Personen kostet die Fahrt 10,13 $ und die Dauer wird ungefähr 15 Minuten betragen . Dies hängt vom Verkehr ab und ob es ein Spiel gibt , überlegt . Wollten Sie , dass der Fahrer Sie jetzt abholt ?	13.352473258972168	-2.038621187210083
+In Ordnung . Der Fahrer soll Sie und Ihre Gruppe um 21 Uhr abholen . Brauchen Sie sonst noch etwas ?	10.188278198242188	1.132704734802246
+Toll , froh , zu helfen . Auf Wiedersehen .	11.571733474731445	-2.50472092628479
+Hallo , wie kann ich Ihnen helfen ?	11.243857383728027	3.1521482467651367
+Ok , wo befinden Sie sich ?	11.495348930358887	2.1966848373413086
+Toll , welche Art von Essen mögen Sie ?	10.815289497375488	1.5811402797698975
+Gibt es zusätzliche Restauranteigenschaften , die Sie möchten ?	11.8232421875	-2.975064992904663
+Lassen Sie mich einige Optionen für Sie finden .	11.662474632263184	-0.5851211547851562
+und Sie sagten , Sie hätten lieber Pizzen oder italienische Küche im Allgemeinen bevorzugt ?	12.298404693603516	-0.9180295467376709
+Ok , ich habe den Waterboy und den Schmelztiegel gefunden . Möchten Sie mehr über jede Option erfahren ?	12.154134750366211	4.001457691192627
+Der Waterboy war der erste und der Schmelztiegel war der zweite .	11.30014419555664	6.899773597717285
+Sicher , ich habe ella Speisesaal und Bar gefunden .	11.367547988891602	-0.2678993344306946
+Sicher , die dritte Option war ella Speisesaal und Bar .	11.619914054870605	-1.4207470417022705
+Es wird mit 4,6 von 5 Sternen bewertet .	11.930660247802734	6.44866418838501
+Sicher , die Gesamtbewertung war 4,5 von 5 Sternen .	11.900289535522461	1.0857133865356445
+Lassen Sie mich ihre Speisekarte für Sie überprüfen .	11.800553321838379	-0.45541107654571533
+Es sieht nicht so aus , als hätten sie ein großes Menü .	11.307792663574219	-0.3363248407840729
+Ok , ihre Telefonnummer lautet ( 916 ) 498-9891 .	12.372673034667969	3.3969085216522217
+Sicher , es ist 9 1 6 4 9 8 9 9 1 .	12.240737915039062	-1.2876161336898804
+Toll , genießen Sie Ihr Essen .	11.558206558227539	2.998039722442627
+Hallo !	11.87486457824707	0.903638482093811
+Womit kann ich Ihnen behilflich sein ?	11.670547485351562	0.8749342560768127
+sicher !	12.578595161437988	-1.2613790035247803
+Welchen Film ?	12.402974128723145	1.5433603525161743
+Einen Moment .	12.654400825500488	-1.6057767868041992
+AH , Second act . Das ist eine Romantik und Komödie . Cool !	11.533690452575684	-0.6890318989753723
+Welches Kino ?	12.265538215637207	1.7036484479904175
+In Ordnung .	12.565267562866211	-1.1901999711990356
+und wie viele Leute ?	11.88125991821289	0.039297401905059814
+Irgendeine Zeitpräferenz ?	12.442813873291016	-0.9442107677459717
+OK .	12.632726669311523	0.2631509304046631
+Sie haben eine um 17 Uhr , 18 : 45 Uhr und 20 : 00 Uhr zur Verfügung .	12.152153015136719	4.608273029327393
+Welche bevorzugen Sie ?	12.332557678222656	-0.4033382534980774
+OK .	12.632726669311523	0.2631509304046631
+Lassen Sie uns das bestätigen .	12.5660400390625	3.4967215061187744
+Zwei Tickets für Second act im AMC Champagne um 20 Uhr .	11.859200477600098	6.022529602050781
+Ist das richtig ?	12.304631233215332	0.8567713499069214
+Möchten Sie kaufen ?	12.015716552734375	2.8201041221618652
+Es wird 24 $ kosten .	12.195730209350586	-1.5996222496032715
+Die Tickets werden als SMS an Ihr Mobilgerät gesendet .	11.616387367248535	6.64959192276001
+genial .	12.235532760620117	-1.2813998460769653
+Viel Spaß !	11.868278503417969	0.5842449069023132
+Hallo , wie kann ich Ihnen helfen ?	11.335602760314941	2.22109055519104
+Sicher , kann ich bitte Ihren Namen bekommen ?	11.280732154846191	9.109477043151855
+Können Sie das bitte buchstabieren ?	12.06651496887207	-0.17139697074890137
+Danke Samantha und wie lautet bitte Ihre Telefonnummer ?	11.704361915588379	9.637495040893555
+Samantha , 512 378 2973 , habe ich es richtig verstanden ?	11.686677932739258	2.2649123668670654
+Großartig , was ist der Grund für Ihren Termin ?	11.338189125061035	1.492775797843933
+Ok , ich werde der Beschreibung hinzufügen , dass Sie Ihr Auto reparieren müssen .	12.109392166137695	2.5605216026306152
+Welchen Termin möchten Sie Ihr Auto in die Autowerkstatt bringen ?	12.190403938293457	1.6788296699523926
+Sicher . Können Sie Ihr Auto vor 8 : 30 Uhr in die Werkstatt bringen ?	11.974129676818848	2.1069540977478027
+Nette . Welches Modell ist Ihr Auto ?	11.931062698364258	4.643139839172363
+Und welches Jahr ist es bitte ?	11.451468467712402	1.5127856731414795
+Großartig . Die Werkstatt befindet sich am 245 Boulevard Lincoln Boulevard . Können Sie bitte bestätigen , dass Sie diese Adresse haben ?	13.588069915771484	-2.2234203815460205
+Lassen Sie mich also alles bestätigen : Sie nehmen morgen vor 8 : 30 Uhr Ihren 2010 Toyota Corolla für eine Wartung , ist das korrekt ?	13.232919692993164	3.096364974975586
+Danke ! Es gibt 89 $ Inspektionsgebühr , die zu Ihrer Gesamtsumme addiert wird .	11.304859161376953	-0.5348426699638367
+Danke , Sie sind fertig !	10.621452331542969	3.40460205078125
+Gern geschehen , tschüss .	11.4230318069458	-0.30512142181396484
+Hallo , wie geht es Ihnen ?	11.451532363891602	2.987807273864746
+Klare Sache . Wofür sind Sie in Stimmung ?	11.333693504333496	1.2988231182098389
+Haben Sie irgendwelche Essensvorlieben ?	12.298906326293945	1.7318307161331177
+Zu welcher Tageszeit planen Sie Essen ?	11.714166641235352	-0.6999889612197876
+Alles klar . Ich werde ein paar Dinge mit diesem in Kürze auswählen . Einen Moment .	11.595246315002441	0.6983556747436523
+Als erstes fand ich Zazie a Petite French Bistro & einen beliebten Brunch Spot mit Außenterrasse & Wochenend-Bring Your Dog Dinners . Es gibt auch einen gemütlichen Veranstaltungsort für die Lasagna mit hausgemachter Pasta sowie andere italienische Spezialitäten in gemütlichen , gemütlichen Lokalen namens Marcella ' s Lasagneria .	13.769454002380371	-1.353110909461975
+Es tut gut	12.857667922973633	1.896763563156128
+zwischen 10 und 15 Uhr eine Teller .	11.669035911560059	0.8454352021217346
+Es bietet einige Weine an , erlaubt jedoch kein Byob .	10.116479873657227	11.89885139465332
+Ja .	12.87524127960205	1.90211820602417
+Klar . Das ist für wie viele Leute ?	11.296719551086426	7.406268119812012
+Das sind also 3 Leute , die Formarcella ' s Lasagneria , um 20 Uhr Dienstag , Tisch bevorzugte .	10.931305885314941	0.497297465801239
+Großartig . Sie sind fertig .	11.629677772521973	2.137228012084961
+Kein Problem . Haben Sie ein schönes Wochenende .	11.554913520812988	2.3236613273620605
+Hallo , wie kann ich Ihnen helfen ?	11.654149055480957	0.078277587890625
+Sicher , darf ich bitte Ihren Namen haben ?	11.215373039245605	2.890928030014038
+Können Sie bitte Ihren Nachnamen buchstabieren ?	11.843828201293945	3.2178168296813965
+Danke , wie lautet bitte Ihre Telefonnummer ?	11.56489086151123	0.6282753348350525
+Britney Perker , 215 884 1882 , ist das richtig ?	11.34281063079834	-1.3709747791290283
+Danke , und was ist der Grund für Ihren Termin ?	11.228294372558594	1.8579132556915283
+Okay , ich kategorisiere das als mehrere Lichter , die nicht funktionieren . Wann möchten Sie Ihr Auto zur Werkstatt bringen ?	11.071928024291992	1.9455233812332153
+Es sieht so aus , als ob ihre nächste verfügbare Zeit morgen früh ist .	11.179226875305176	0.9237186908721924
+Ist es möglich , Ihr Auto vor 8 : 30 Uhr in die Werkstatt zu bringen ?	11.145485877990723	7.673671722412109
+Was ist Ihr Fahrzeugmodell bitte ?	11.94519329071045	4.611816883087158
+Großartig . Nur um sicher zu gehen , dass ich es verstanden habe , Ihr 2014er RDX hat mehrere Lichter aus , richtig ?	10.634584426879883	6.485423564910889
+Danke . Es gibt auch eine 89 $ Inspektionsgebühr , die zu Ihrer Gesamtsumme addiert wird . Kann ich mit der Buchung fortfahren ?	9.899641036987305	-2.2448649406433105
+In Ordnung . Sie befinden sich in der Lincoln Ave 489 . Können Sie diese Adresse bitte bestätigen ?	10.545555114746094	5.516361236572266
+Danke ! Sie sind bereit für morgen , den 1. Februar um 8 : 30 Uhr .	10.535646438598633	4.406089782714844
+Gern geschehen ! Tschüss .	11.71611499786377	4.408053874969482
+Hallo , wie kann ich Ihnen helfen ?	11.719636917114258	0.9589946269989014
+Sicher . Darf ich bitte Ihren Vor- und Nachnamen haben ?	10.953826904296875	8.52267074584961
+Ok , und Ihre Telefonnummer ?	11.330249786376953	10.400190353393555
+Jeff Blue , 416 234 8953 , richtig ?	11.058316230773926	12.231644630432129
+Was ist der Grund für Ihren Termin ?	11.596993446350098	3.412426471710205
+Ok und welches Modell ist Ihr Fahrzeug ?	11.323619842529297	2.3013620376586914
+Also Ihr 2011 Nissan Rogue macht Geräusche , wenn Sie abbiegen , richtig ?	11.748619079589844	-0.11033469438552856
+Wann möchten Sie Ihr Auto zur Werkstatt bringen ?	11.516857147216797	-0.6854292154312134
+Passt morgen um 9 Uhr ?	11.728805541992188	1.792029857635498
+Sie berechnen 89 $ für die Inspektion . Kann ich Ihren Termin weiterhin buchen ?	11.00869083404541	0.9978057742118835
+Stellen Sie auch sicher , dass Sie ihre Adresse haben . Sie befinden sich in der 300 Garcia Road .	11.725690841674805	3.3812062740325928
+Sie sind für morgen um 9 Uhr fertig .	11.453207969665527	3.2136833667755127
+Gern geschehen , tschüss !	11.073914527893066	5.448729515075684
+Hallo , wie kann ich Ihnen helfen ?	11.139105796813965	0.5872064232826233
+Sicher , können Sie bitte Ihren Namen und Ihre Nummer angeben ?	10.917388916015625	4.964007377624512
+Ok , wir buchen einen Termin für Rebecca Soltzer , Telefonnummer 817-469-1255 , ist das richtig ?	11.791301727294922	2.390768051147461
+Toll , können Sie mir das Jahr , die Marke und das Modell Ihres Autos mitteilen ?	11.064971923828125	0.47626161575317383
+Ok , und welche Probleme haben Sie mit Ihrem Auto ?	11.456953048706055	3.831134080886841
+Ok , wann möchten Sie Ihren Termin vereinbaren ?	11.426578521728516	4.011216163635254
+Lassen Sie mich überprüfen , ob sie freie Plätze haben .	12.231423377990723	5.216056823730469
+Ok , es sieht so aus , als hätten sie heute um 15 Uhr einen freien Termin . Lassen Sie mich diesen Termin buchen .	11.166474342346191	11.8854341506958
+Nur damit Sie Bescheid wissen , es gibt eine Inspektionsgebühr von 89 $ , die jedoch auf die Reparaturkosten angerechnet werden kann , wenn Sie sich für eine Reparatur in der Werkstatt entscheiden .	13.622381210327148	11.348052024841309
+Ok , ich habe heute einen Termin für 15 Uhr für Ihren 2013 Honda Pilot gebucht , der ein Ölleck hat .	11.371296882629395	2.967163562774658
+Kann ich Ihnen mit etwas anderem weiterhelfen ?	10.820322036743164	1.2951586246490479
+Ok , fahren Sie sicher , haben Sie einen schönen Tag .	10.877323150634766	2.958127498626709
+Hallo , wie kann ich Ihnen helfen ?	11.139105796813965	1.5290493965148926
+Ok , bitte geben Sie Ihren Namen und Ihre Nummer an .	11.180627822875977	4.291475296020508
+Ok , wir buchen für James , 952-203-5689 , ist das richtig ?	11.239204406738281	1.846750020980835
+Toll , bitte sagen Sie mir das Jahr , die Marke und das Modell Ihres Autos .	11.101761817932129	-0.25857579708099365
+Ok , welche Probleme haben Sie mit Ihrem Auto ?	11.483489990234375	4.233043193817139
+ok , brauchen Sie auch einen Ölwechsel ?	11.148219108581543	1.18099844455719
+Verstanden , wann möchten Sie Ihren Termin vereinbaren ?	11.14581298828125	-0.4125359058380127
+Ok , ich kann sehen , ob sie etwas für heute haben .	11.075409889221191	2.0474064350128174
+Es sieht so aus , als hätten sie heute um 15 : 00 Uhr einen freien Termin . Passt das für Sie ?	10.935847282409668	0.7768080830574036
+Toll , ich werde diesen Termin buchen , einen Moment .	11.381131172180176	10.898665428161621
+Bitte beachten Sie , dass es eine Inspektionsgebühr in Höhe von 89 $ gibt , diese kann jedoch auf die Reparaturkosten angerechnet werden .	11.11245346069336	-1.0526624917984009
+Ok , ich habe einen Termin für heute um 15 : 00 Uhr für Ihren Acura RDX 2014 , der eine Wartung benötigt , vereinbart . Kann ich mit irgendetwas anderem helfen ?	12.399537086486816	1.65963876247406
+Gern geschehen , fahren Sie sicher .	11.809432029724121	4.062282562255859
+Hallo , wie kann ich Ihnen helfen ?	11.139105796813965	1.5290493965148926
+Ok , bitte geben Sie Ihren Namen und Ihre Nummer an .	11.180627822875977	4.291475296020508
+Ok , wir buchen für John Doe , 676-888-2959 , ist das richtig ?	11.424922943115234	4.271446704864502
+Großartig , und welche Probleme haben Sie mit Ihrem Honda-Pilot ?	10.778922080993652	1.2871720790863037
+Ok , wann möchten Sie Ihren Termin vereinbaren ?	11.426578521728516	0.6439269781112671
+Sicher , lassen Sie mich die Verfügbarkeit der Werkstatt überprüfen .	11.643662452697754	5.719540596008301
+Ok , es sieht so aus , als hätten sie um 8 : 30 Uhr einen freien Termin . Passt das für Sie ?	11.341634750366211	2.812028169631958
+Ok , lassen Sie mich das buchen , einen Moment .	11.404524803161621	-1.0083556175231934
+Bitte beachten Sie , dass es eine Inspektionsgebühr in Höhe von 89 $ geben wird , diese kann jedoch auf die Reparaturkosten angerechnet werden .	10.780823707580566	1.3399658203125
+Ok , ich habe einen Termin für morgen um 8 : 30 Uhr für Ihren 2013 Honda Pilot gebucht , der beim Wenden seltsame Geräusche macht . Kann ich mit irgendetwas anderem helfen ?	12.14841365814209	-1.4289624691009521
+Gern geschehen , fahren Sie sicher .	11.792143821716309	4.062282562255859
+Hallo , wie kann ich Ihnen heute helfen ?	11.01982307434082	2.5966479778289795
+Sicher , ich kann die Bestellung für Sie aufgeben . Was möchten Sie essen ?	10.940934181213379	3.4465575218200684
+Entschuldigung , es sieht nicht so aus , als hätte Bella Luna Rindfleisch aus dem Boden .	10.413398742675781	3.9153780937194824
+Wollten Sie noch einen Belag ?	12.13847541809082	3.7107536792755127
+Das tun sie nicht . Sie haben Peperoni und Wurst .	10.004009246826172	2.991248607635498
+Verstanden .	11.872093200683594	-0.5331270694732666
+Ihre Bestellung lautet also 3 mittelgroße Pizzen , 1 mit Spinach und Wurst , 1 Fleischliebhaber und 1 italienischer Stil , alle mit dünner Kruste .	11.814146041870117	13.779340744018555
+Ist das richtig ?	12.17958927154541	1.334909439086914
+Wollten Sie frische Tomaten oder getrocknete ?	10.728251457214355	0.9086477756500244
+Genial , also ist die aktualisierte Bestellung 3 mittelgroße Pizzen , 1 mit Spinach , Wurst und getrockneten Tomaten , 1 Fleischliebhaber und 1 italienischer Art , alle mit dünner Kruste .	13.662524223327637	-1.9318143129348755
+Die Gesamtsumme für die Bestellung beträgt 56.97 $ .	11.374632835388184	-0.11115140467882156
+Soll ich jetzt bestellen ?	11.699958801269531	2.3463375568389893
+Toll , ich habe Ihre Pizzen bestellt . Sie sind in 25 Minuten abholbereit .	10.400586128234863	4.756654739379883
+brauchen Sie noch etwas ?	11.361204147338867	3.3288607597351074
+Toll , passen Sie auf sich auf .	11.752102851867676	3.547788619995117
+Hallo , wie kann ich Ihnen helfen ?	11.216859817504883	1.6587474346160889
+Klar , wo befinden Sie sich ?	11.743086814880371	0.5520275831222534
+Ok , welche Art von Essen mögen Sie ?	10.583893775939941	4.185310363769531
+Verstanden , gibt es noch andere Restauranteigenschaften , die Sie möchten ?	10.630438804626465	6.213536262512207
+Ok , lassen Sie mich ein paar Optionen für Sie finden .	11.028096199035645	3.4348034858703613
+Ich habe Sotto Mare und Fior D ' italia gefunden . Möchten Sie mehr über beide erfahren ?	10.824448585510254	3.3785109519958496
+Sotto Mare wird als ein Nachbarschaftspool mit nautischem Dekor & einer Speisekarte mit Pasta , Cioppino & anderen italienischen Meeresfrüchten beschrieben .	10.845605850219727	-2.1720781326293945
+Sie sind heute von 11 bis 10 Uhr geöffnet .	11.503822326660156	2.577925682067871
+Fior D ' italia wird als Landmark Trattoria mit Wurzeln im 19. Jahrhundert beschrieben und serviert klassische italienische Küche , Cocktails & Wein .	10.488523483276367	-0.7129288911819458
+Ja , sie haben eine voll ausgestattete Bar .	11.579795837402344	5.302981376647949
+Klar , für wie viele Leute ?	11.465798377990723	5.240847587585449
+Ok , wann möchten Sie reservieren ?	11.08967399597168	3.2950165271759033
+Ok , lassen Sie mich überprüfen , wann sie verfügbar sind .	11.70156478881836	3.7624220848083496
+Es sieht so aus , als hätten sie um 17 : 30 Uhr einen freien Termin . Passt das für Sie ?	10.583274841308594	6.196923732757568
+Ok , ich werde diese Reservierung vornehmen , einen Moment .	11.41673755645752	0.8462861776351929
+Ok , ich habe für heute um 17 : 30 Uhr einen Tisch für 4 Personen bei Fior D ' italia gebucht . Kann ich mit irgendetwas anderem helfen ?	11.058648109436035	4.948798656463623
+Gern geschehen , genießen Sie Ihr Abendessen .	10.945832252502441	3.0101561546325684
+Hallo , wie kann ich Ihnen helfen ?	11.277254104614258	2.0789880752563477
+Sicher , wie viele Pizzen möchten Sie ?	11.395264625549316	4.629965305328369
+ok und welche Art von Belägen möchten Sie ?	11.018516540527344	3.405927896499634
+Das war ein bisschen schnell . Was sind die Beläge auf der dritten und vierten Pizza ?	11.04644775390625	1.1204452514648438
+Vielen Dank .	12.179448127746582	1.609791874885559
+Ihre Bestellung lautet also : 4 große glutenfreie Pizzen mit Kruste . Eine mit Fleischliebhabern , die zweite : extra Käse , Paprika und Zwiebeln , die dritte : Veggie-Lover und die vierte : Peperoni , Ananas und Oliven , richtig ?	13.333683013916016	-0.28209248185157776
+Großartig . Ihre Summe ist 56,89 $ .	11.529221534729004	2.5832386016845703
+Ihre Pizzen sind in 40 Minuten bei Bella Luna abholbereit .	11.099305152893066	2.5938401222229004
+Gern geschehen , tschüss !	11.493677139282227	1.3854475021362305
+Hallo , wie kann ich Ihnen helfen ?	11.589241981506348	2.328117609024048
+Es tut mir leid , aber ich kann Sie nicht ganz hören , bitte sprechen Sie auf .	11.125185012817383	2.7030584812164307
+Okay und woher kommen Sie ?	11.509407043457031	2.9977171421051025
+Es tut mir leid , was war das ?	11.644598007202148	4.931269645690918
+Und wohin möchten Sie ?	11.837885856628418	0.7707969546318054
+Es tut mir leid , was war das ?	11.644598007202148	4.931269645690918
+Okay , großartig , einen Moment .	12.106731414794922	5.626452445983887
+Wie viele Personen sind in Ihrer Fahrt ?	11.722959518432617	3.737605094909668
+Haben Sie 4 Personen gesagt ?	12.020851135253906	5.920433044433594
+Einen Moment .	12.747621536254883	3.082520008087158
+Das kostet 40 Dollar und dauert 40 Minuten , okay ?	11.360387802124023	1.1359081268310547
+Großartig , ich habe Ihren Lyft gebucht , er wird in 5 Minuten ankommen .	11.04960823059082	5.049218654632568
+Guten Tag .	12.734606742858887	-1.947358250617981
+Klar , zuerst brauche ich einen Namen .	11.699599266052246	5.522878170013428
+Und eine Telefonnummer für Sie Tom ?	11.638440132141113	3.0028035640716553
+Können Sie die letzten vier Ziffern wiederholen ?	11.501401901245117	3.5348939895629883
+Also das ist Tom unter 345-678-12 34 , richtig ?	11.594435691833496	1.692184567451477
+toll und was ist das Problem mit Ihrem Acura ?	11.34694766998291	-2.0061981678009033
+Verstanden , ich werde das als elektrische Auskopplung eintragen .	10.872255325317383	3.530040740966797
+Wann möchten Sie das also sehen , Tom ?	11.276725769042969	4.920760631561279
+Lassen Sie mich sehen , ob es möglich ist , da dies sich als ein Extremer Fall anhört .	10.627161026000977	2.2084619998931885
+Viel Glück , sie hatten einen freien Termin . Normalerweise müssen Sie Ihr Auto um 8 : 30 Uhr abgeben , aber jemand storniert .	10.76413345336914	3.4361820220947266
+Ihr 2014 Audi Acura RDX wird heute um 3 Uhr zur Inspektion der Elektroauslastung gezeigt . Das ist alles richtig , ja ?	11.249234199523926	-0.3588985204696655
+Okay , es wird 89 $ kosten , das Auto zu inspizieren , aber es wird mit Ihrer Reparatur verrechnet .	10.547795295715332	3.689267158508301
+Oh , mein Fehler . Ich werde das reparieren .	11.226371765136719	0.582716166973114
+Ich habe den Termin geändert , um das zu berücksichtigen .	11.455957412719727	0.5857318043708801
+Jetzt sind Sie fertig , haben Sie einen schönen Tag .	11.17819595336914	7.65300178527832
+Tschüss .	12.342245101928711	1.8839900493621826
+Hallo , wie kann ich Ihnen helfen ?	11.202651977539062	3.4806056022644043
+Sicher , lassen Sie mich ein Kino in Ihrer Nähe finden .	11.170454025268555	4.942792892456055
+ok , wird die AMC Philadelphia Mills 14 für Sie funktionieren ?	11.855090141296387	5.454381942749023
+Ok , sie haben heute Abend um 21 : 35 Uhr eine Vorstellung . Lassen Sie mich sehen , ob Tickets verfügbar sind , einen Moment .	11.971875190734863	4.4077324867248535
+Es tut mir leid , dass die Vorstellung ausgebucht ist . Lassen Sie mich ein anderes Kino für Sie suchen .	10.585939407348633	2.7831528186798096
+Ich sehe , dass das United Artists Main Street Theater eine Vorstellung um 22 : 15 Uhr hat , die 4 Plätze zur Verfügung hat . Passt das für Sie ?	12.2803955078125	1.0659468173980713
+Toll , 4 Tickets kosten 48 $ . Ist das in Ordnung ?	11.011141777038574	10.40117359161377
+Ok , einen Moment , während ich Ihre Tickets buche .	11.645418167114258	3.0001883506774902
+Ich habe 4 Tickets gebucht , um heute Abend um 22 : 15 Uhr im United Artists Main Street Theater. Ihre Tickets und Quittung werden Ihnen per SMS zugeschickt .	13.4052152633667	-0.6210565567016602
+Kann ich mit irgendetwas anderem helfen ?	11.175081253051758	3.8446545600891113
+Sicher , lassen Sie mich das für Sie suchen .	11.280068397521973	5.431275367736816
+Es sind 2 Stunden und 2 Minuten .	11.691247940063477	-0.06298696994781494
+Gern geschehen , genießen Sie Ihren Film .	11.337809562683105	1.5531930923461914
+Hallo ! Was kann ich für Sie tun ?	11.099347114562988	3.9641153812408447
+Natürlich !	12.022751808166504	2.7198169231414795
+Sicher ! Geben Sie mir einen Moment .	11.841906547546387	3.2060465812683105
+Großartig !	11.49966812133789	5.060672283172607
+Werden Sie der einzige Fahrer für diese Fahrt sein ?	11.355127334594727	1.041261911392212
+In Ordnung ! Ist ein UberXL okay mit Ihnen ?	11.416948318481445	-0.7457164525985718
+Großartig !	11.65140151977539	3.7005763053894043
+Lassen Sie mich die Fahrpreise erfahren .	11.719561576843262	4.411927700042725
+Für das UberXL , das Platz für bis zu 6 Personen hat , zeigt die Rate derzeit zwischen 18 und 22 Dollar .	12.130528450012207	5.238287925720215
+ist das in Ordnung ?	11.849105834960938	-0.2912508249282837
+Okay ! Großartig .	11.795964241027832	2.9500722885131836
+Lassen Sie mich diese Fahrt für Sie buchen .	11.078436851501465	4.5653510093688965
+kein Problem .	12.171602249145508	5.799410820007324
+Ihre Fahrt wurde geplant .	11.874641418457031	7.292880535125732
+Ja , der Fahrer sollte innerhalb von 7 Minuten ankommen .	11.735917091369629	3.0082733631134033
+Sie können den Status auf Ihrem Mobilgerät überprüfen .	11.496528625488281	4.971404552459717
+Kann ich noch etwas für Sie tun ?	11.030477523803711	3.4336371421813965
+Gern geschehen !	11.695732116699219	-0.4211322069168091
+Gute Fahrt .	11.774910926818848	9.00052261352539
+Auf Wiedersehen !	12.08665943145752	2.3282430171966553
+Klar , welcher Film ?	11.454362869262695	5.310442924499512
+Großartig und welche Stadt wollten Sie sich das ansehen ?	11.132429122924805	9.295939445495605
+Es tut mir leid , welchen Teil von New York ?	11.617881774902344	7.920041561126709
+Großartig und haben Sie ein bevorzugtes Kino ?	10.617945671081543	5.469027042388916
+Ich habe zwei Vorstellungen um 13 : 30 Uhr hier . Ich werde zuerst die Vorstellung in den Regal Cinemas Binghamton ausprobieren . Wie viele Tickets ?	12.522815704345703	3.0966172218322754
+Alles klar . Zwei Tickets sind 14 88 okay ?	10.931254386901855	2.195225954055786
+Großartig . Einen Moment , während ich es buche . Machen Sie weiter und fragen Sie nach .	11.86087703704834	3.936516284942627
+Es sind 2 Stunden , und es sieht so aus , als ob diese Vorstellung ausverkauft ist . Ich kann die nächste ausprobieren oder die Bestellung stornieren .	12.345466613769531	3.0449109077453613
+Großartig , das wird bei Regal Cinemas Ithaca sein und wird den gleichen Betrag kosten .	11.8020658493042	2.6989221572875977
+Okay , Sie sind fertig . Ihre Tickets werden in nur einem Moment per SMS ankommen .	11.530753135681152	2.7650253772735596
+Genießen Sie Ihren Film ! Tschüss .	11.805360794067383	3.7861344814300537
+Hallo , wie kann ich helfen ?	11.381865501403809	4.293619632720947
+Sicher , wo wollen Sie abgeholt werden ?	11.703742027282715	1.263404369354248
+Wo wollen Sie abgesetzt werden ?	11.910467147827148	2.202688455581665
+Wie viele Leute sind in Ihrer Gruppe ?	11.129996299743652	3.298309326171875
+und welche Art von Fahrt möchten Sie ?	11.467315673828125	0.31931251287460327
+Für zwei Personen zum Flughafen Honolulu mit Uber XL kostet es Ihnen 57,17 $ und es dauert ungefähr 20 Minuten , bis Sie an Ihr Ziel gelangen .	11.092270851135254	-1.9754445552825928
+Soll ich das jetzt buchen ?	11.3737211227417	2.4047577381134033
+Oh , verstanden . Ich werde es für heute Abend um 21 Uhr planen .	10.654026985168457	6.531354904174805
+Die Ankunft und der Status des Fahrers können Sie später am Abend auf Ihrer Uber App sehen .	11.160063743591309	0.033669114112854004
+Brauchen Sie sonst noch etwas ?	11.279824256896973	1.4242726564407349
+Ok , gute Fahrt .	11.683815956115723	6.718570232391357
+Hallo !	12.031554222106934	3.1924054622650146
+Verstanden .	12.189599990844727	4.553757667541504
+Wo holt es Sie ab ?	12.108621597290039	2.7464146614074707
+Und wohin möchten Sie ?	12.054237365722656	4.970431327819824
+Wie viele Passagiere ?	12.45853042602539	2.2732272148132324
+Ok an XL wird dann die beste Wahl sein .	11.710387229919434	12.929533004760742
+Normale Termine sind nur für bis zu 4 Personen .	11.698507308959961	2.2834930419921875
+Okay , es wird zwischen 15 und 18 Dollar kosten und 15 Minuten dauern .	11.207559585571289	0.06384450197219849
+Ist das für jetzt ?	12.25901985168457	3.0353739261627197
+Alles klar . Ich habe Ihre Fahrt gebucht . Der Fahrer wird um 21 Uhr ankommen .	10.950282096862793	6.901101589202881
+Sonst noch etwas ?	11.838480949401855	8.165372848510742
+Ich wünsche Ihnen heute Abend eine schöne Zeit .	11.70273494720459	2.597836494445801
+Hallo , wie kann ich Ihnen helfen ?	11.190641403198242	0.7095718383789062
+Ok , gibt es noch andere Restauranteigenschaften , die Sie möchten ?	11.252023696899414	4.409477233886719
+Toll , lassen Sie mich ein paar Restaurants finden , die Ihren Vorlieben entsprechen .	10.86107063293457	5.436408996582031
+und wäre preislich bis zu 2 oder 3 Sterne zu erschwinglichen Preisen ?	10.761509895324707	0.020651578903198242
+Was den Preis angeht .	12.063172340393066	2.0073604583740234
+Verstanden , ich werde versuchen , einige zu finden .	10.695930480957031	4.040228843688965
+Ich habe das leatherneck Steakhouse gefunden , das mit 2 von 5 Sternen in Bezug auf den Preis und das Harris Steakhouse bewertet wird , das mit 3 von 5 Sternen in Bezug auf den Preis bewertet wird .	13.709321975708008	0.9607629179954529
+Möchten Sie mehr über beide erfahren ?	11.574079513549805	1.8920173645019531
+Sicher , das leatherneck Steakhouse wird mit 4,4 von 5 Sternen bewertet .	11.04347038269043	4.6367926597595215
+Es wird als ein Ort beschrieben , der Steaks & Meeresfrüchte serviert serviert auf der Toppe ' Memorial Club & Hotel Marines in einem gehobenen Raum mit Blick auf die Stadt .	11.92380428314209	-0.9755035042762756
+und es wird mit 2 von 5 Sternen in Bezug auf den Preis bewertet .	10.71442699432373	0.4666329622268677
+Harris wird mit 4,6 von 5 Sternen bewertet und als ein gefeiertes trockenaltes Steaks in einem mit Holz bewachsenen Speisesaal sowie Live-Jazz in der Bar beschrieben .	11.703205108642578	0.42778244614601135
+Das ist richtig .	12.302409172058105	5.332202911376953
+Ja , es sieht so aus , als hätten sie Parkservice , sonst müssten Sie auf der Straße parken .	10.822876930236816	-0.25413453578948975
+Ja , sie haben nur Innenbestuhlung .	11.264713287353516	2.028158187866211
+Sicher , ich kann überprüfen , ob sie während dieser Zeit frei sind .	11.413631439208984	5.017401218414307
+Es sieht so aus , als hätten sie keine Sitzgelegenheiten um 19 : 15 Uhr , sie werden um 17 : 30 Uhr oder nach 20 : 30 Uhr verfügbar sein .	11.241219520568848	4.246818542480469
+Toll , lassen Sie mich Ihren Tisch buchen .	11.472110748291016	3.631972312927246
+Ok , ich habe heute Abend um 20 : 45 Uhr einen Tisch für 2 Personen für das Harris Steakhouse Restaurant gebucht . Kann ich Ihnen mit irgendetwas anderem weiterhelfen ?	10.061814308166504	7.873631000518799
+Ok , genießen Sie Ihr Abendessen .	11.862991333007812	11.743230819702148
+Hallo , wie kann ich Ihnen helfen ?	11.645015716552734	4.14280891418457
+ok , haben Sie die Adresse für das Restaurant , zu dem Sie gehen möchten ?	11.077699661254883	5.5884199142456055
+Toll , einen Moment , während ich Ihren Fahrpreis berechne .	11.531803131103516	9.81026840209961
+ok , ich werde mir die UberXL-Preise ansehen .	11.311434745788574	4.798838138580322
+Es sieht so aus , als würde ein UberXL 109.90 $ kosten . Ist das in Ordnung ?	11.229095458984375	7.22794246673584
+Eine geteilte Fahrt kann nur bis zu 2 Passagiere aufnehmen .	11.9174165725708	-2.0761029720306396
+Toll , brauchen Sie eine sofortige Abholung ?	11.518543243408203	3.7157273292541504
+Ok , lassen Sie mich einen Moment die Fahrer in Ihrer Nähe finden .	11.366217613220215	4.796356201171875
+Ok , Ihre Fahrt wird in 8 Minuten ankommen , Ihre Quittung wird Ihnen per SMS zugeschickt .	10.328885078430176	12.017431259155273
+Ich kann das für Sie überprüfen , einen Moment .	11.741609573364258	1.4608409404754639
+Es dauert ungefähr eine Stunde und 5 Minuten . Es sieht so aus , als ob es derzeit einen moderaten Verkehr gibt .	11.06816577911377	3.0310754776000977
+Ok , gute Fahrt .	11.903298377990723	3.112982749938965
+Hallo . Wie kann ich Ihnen helfen ?	11.708708763122559	4.1602702140808105
+Sicher , an welche Art von Ort haben Sie gedacht ?	11.672659873962402	4.453577041625977
+Haben Sie Restaurantfaktoren oder -filmer , die ich zum Beispiel nach Sitzgelegenheiten im Freien suchen sollte ?	10.651293754577637	0.18831923604011536
+Toll , lassen Sie mich auf diese Suche kommen . Einen Moment bitte .	11.269209861755371	4.856431007385254
+Bistro Sf Grill ist eine gute Option , die Ihren Vorlieben entspricht . Burger Shop , bekannt für exotische Optionen wie Elek & Alligator in einem rot-gekühlten , kunstgeschmückten Raum . Ein weiterer großer Ort ist Burger-Bar . Küchenchef Hubert Keller zieht Menschenmassen mit einer gehobenen Auswahl an kreativen Burgern & Blick auf den Union Square .	13.722501754760742	3.1612610816955566
+Benötigen Sie weitere Informationen ?	11.88034725189209	1.646281123161316
+Das zweite heißt Burger Bar. Soll ich die Beschreibung nochmal lesen ?	11.000683784484863	-2.011937379837036
+Es tut mir leid . Die dritte heißt Popsons Burger .	11.00817584991455	-1.9859960079193115
+Modernes Bistro mit einer lockeren Atmosphäre , das auf hellen Plätzen Tapeten , Hot Dog & Shakes serviert .	11.060060501098633	1.1076793670654297
+Ja , Bistro Sf nimmt es aus .	11.509305953979492	2.3347129821777344
+Reservierungen sind bei Popsons nicht notwendig , werden aber angeregt .	11.219788551330566	3.9401564598083496
+Die Burger-Bar hat einen hohen Verkehr von 19 bis 20 Uhr .	11.539397239685059	-2.716895341873169
+Bistro Sf akzeptiert alle gängigen Kreditkarten .	11.998396873474121	9.867050170898438
+Es ist eine rauchfreie Umgebung .	11.799646377563477	3.3538131713867188
+Ja , die Burger-Bar tut das .	12.03255558013916	1.9113388061523438
+Großartig . Benötigen Sie dort eine Reservierung ?	10.666035652160645	3.79240345954895
+Für wie viele Personen ?	11.827474594116211	0.24371767044067383
+und wann wollten Sie gehen ?	11.986711502075195	0.8255307078361511
+Eine Reservierung für 2 Personen in der Burger-Bar um 13 Uhr ist möglich . Ich werde sie jetzt für Sie buchen .	11.130155563354492	0.6695709228515625
+Brauchen Sie sonst noch etwas ?	11.27181339263916	0.7778351902961731
+Gern geschehen .	12.163620948791504	1.6595160961151123
+Hallo , wie kann ich Ihnen helfen ?	11.173848152160645	1.9371185302734375
+Sicher , ich kann eine Bestellung für Sie aufgeben . Was möchten Sie ?	11.202374458312988	0.8943403363227844
+Wollten Sie einen Vanilles-Bohne Frappuccino ?	11.835442543029785	-0.23214846849441528
+welche Größe ?	12.400229454040527	2.104572296142578
+Und wollten Sie dabei normale Vollmilch ?	11.24897289276123	2.3087997436523438
+Ok , Vollmilch ist es . Bei welchem Starbucks soll ich bestellen ?	11.515888214111328	-0.12114274501800537
+1 Venti Vanilla Bohne Frappuccino von Starbucks in San Francisco wird $ 6,50 kosten . Wollten Sie , dass ich die Bestellung jetzt einreiche ?	13.390694618225098	2.268282890319824
+Toll , es wird in 10 Minuten fertig sein . Die Quittung wurde an Ihr Telefon gesendet . Brauchen Sie heute noch etwas von mir ?	11.852768898010254	1.1042852401733398
+Toll , genießen Sie das Getränk .	11.432138442993164	2.2152180671691895
+Hallo , wie geht es Ihnen ?	11.876397132873535	0.3201199769973755
+Großartig , danke , dass Sie gefragt haben , wie ich Ihnen helfen kann .	11.293245315551758	2.971776008605957
+Verstanden , und wie lautet der Name für diesen Termin ?	11.343246459960938	-0.1751146912574768
+und eine Telefonnummer ?	11.883813858032227	-0.833014965057373
+Das ist also John Smith unter 555 555 55 55 55 .	12.242374420166016	3.3322315216064453
+toll und was ist das Problem mit Ihrem Auto ?	11.218400955200195	1.8839969635009766
+Oh , das ist nicht gut . Welche Art von Auto ist es ?	10.571134567260742	3.7587459087371826
+Großartig und wann wollten Sie es sich ansehen ?	10.950221061706543	3.0416207313537598
+Können Sie das Auto am nächsten Freitag bis 8 : 30 Uhr abgeben ?	11.61231517791748	3.36264967918396
+Großartig , um Ihren 2011 Nissan Rogue zu bestätigen , der nächsten Freitag um 8 : 30 Uhr , den 22.März , gesehen wird , weil es Öl ausläuft .	12.574993133544922	3.6145966053009033
+Sie sind fertig . Der Termin kostet 89 $ , aber er wird mit der Inspektion und eventuellen Reparaturen an der Inspektion verrechnet .	11.89640998840332	-2.1207871437072754
+Kein Problem ! Sie haben einen schönen Tag und viel Glück mit dem Auto .	10.338770866394043	-1.691235899925232
+Hallo , was möchten Sie heute machen ?	11.473023414611816	2.8627443313598633
+sicher .	12.76073932647705	-3.2130370140075684
+einen Termin bei " Intelligent Auto Imports , sicher , ich kann Ihnen dabei helfen .	10.517193794250488	-1.5791680812835693
+Unter welchem Namen würde der Termin lauten ?	11.824140548706055	1.0267268419265747
+ok , ich habe Schmidt .	11.723809242248535	1.822706937789917
+Darf ich bitte den Vornamen noch einmal haben ?	11.576820373535156	-2.267444610595703
+Dan schmidt ist das richtig ?	12.008172988891602	4.446503639221191
+Verstanden , und wie lautet Ihre 10-stellige Telefonnummer ?	11.702292442321777	5.448064804077148
+513-682-9082 ist das Ihre Nummer ?	11.054770469665527	-0.8026814460754395
+Verstanden , ok . Was scheint das Problem zu sein ?	10.651687622070312	6.797277450561523
+Lichter funktionieren zeitweise und sie arbeiten nicht zu 100 % der Zeit . Ist das richtig ?	11.381627082824707	-3.826003074645996
+Ok , also habe ich Nissan , welches Jahr und welches Modell ist das Auto ?	11.374882698059082	12.362310409545898
+2011 Nissan Rogue ist das richtig ?	11.739819526672363	4.0410261154174805
+Ok , für welchen Tag möchten Sie den Termin vereinbaren ?	11.415851593017578	11.352781295776367
+Derzeit hat der Shop erst morgen freie Plätze und sie sollten ihr Auto vor 8 : 30 Uhr abgeben .	11.532063484191895	-1.0406296253204346
+Ok , bevor wir bestätigen , es gibt eine $ 89 Gebühr für die Inspektion , aber wenn Sie Ihr Auto mit ihnen reparieren lassen möchten , wird die Gebühr in Richtung der tatsächlichen Gebühr für die Reparatur des Autos gehen . Ist das in Ordnung ?	11.976360321044922	16.881593704223633
+Ok , bitte geben Sie mir einen Moment , um alle Informationen mit Ihnen zu bestätigen .	11.154580116271973	3.3528339862823486
+Wir haben also morgen einen Termin bei " Intelligent Auto Imports " unter dem Namen dan schmidt , Telefonnummer 513-682-9082 , für 2011 Nissan Rogue , das Problem ist , dass Supervisor _ Account-Lichter zeitweilig funktionieren und sie nicht 100 % der Zeit arbeiten .	13.690265655517578	2.172452211380005
+Ok , Reservierung bestätigt , bitte geben Sie Ihr Auto am Tag des Termins vor 8 : 30 Uhr ab .	10.757619857788086	11.896604537963867
+Möchten Sie noch etwas anderes ?	11.887242317199707	5.532613754272461
+Gern geschehen , einen schönen Tag noch .	11.089775085449219	6.077754497528076
+Hallo , wie kann ich Ihnen helfen ?	11.398191452026367	5.793008327484131
+Gibt es noch andere Merkmale , die das Restaurant aufweisen soll , damit ich meine Suche eingrenzen kann ?	10.907537460327148	4.336851119995117
+Ok , lassen Sie mich nach Ihnen suchen .	11.332894325256348	3.688568115234375
+Ich habe ein paar Optionen für Sie gefunden , Harris und Osso Steakhouse .	10.905623435974121	4.0237884521484375
+Harris wird mit 3 von 5 Sternen bewertet und Osso wird mit 4 von 5 Sternen in Bezug auf den Preis bewertet .	10.266881942749023	2.0575008392333984
+Ich kann das überprüfen , einen Moment .	11.681680679321289	1.3833194971084595
+Es sieht so aus , als wären beide Rollstuhlfahrer zugänglich , aber Harris hat einen offeneren Speisesaal , so dass es bequemer sein kann .	10.753539085388184	-0.2653677761554718
+Es tut mir leid , Sie haben das ausgeschnitten , das habe ich nicht ganz verstanden .	9.67524242401123	2.0387136936187744
+Können Sie bitte Ihre letzte Frage wiederholen ?	11.71685791015625	3.4310214519500732
+Einen Moment , lassen Sie mich das für Sie überprüfen .	11.418049812316895	2.448622703552246
+Es sieht so aus , als könnten beide Restaurants große Gruppen beherbergen , aber Sie müssen mindestens eine Woche im Voraus einen Tisch reservieren .	11.111635208129883	4.7686767578125
+Es sieht so aus , als hätte osso eine voll ausgestattete Bar und Harris nicht , aber sie servieren Bier und Wein .	10.66132926940918	0.2317771017551422
+Sie sagten , am 10. Februar ?	11.833062171936035	2.062915802001953
+Ok , lassen Sie mich das für Sie überprüfen .	11.397242546081543	2.4142723083496094
+Ok , ich habe am 10. Februar um 21 Uhr einen Tisch für 8 Personen im Osso Steakhouse gebucht . Kann ich Ihnen sonst noch helfen ?	10.485569953918457	0.9766585230827332
+Ok , genießen Sie Ihr Abendessen .	11.643332481384277	4.013271808624268
+Hallo , wie kann ich Ihnen helfen ?	11.49230670928955	5.832215785980225
+Sicher , wo möchten Sie abgeholt werden ?	11.66607666015625	4.938349723815918
+Ok und wo möchten Sie abgesetzt werden ?	11.504961967468262	0.38908621668815613
+Welche Art von Fahrt möchten Sie ?	11.86152172088623	-1.1085219383239746
+Sicher . Der Fahrpreis ist $ 37.52. Wann möchten Sie abgeholt werden ?	11.78879165649414	11.202494621276855
+Alles klar . Ihre UberXL-Fahrt ist für heute Abend um 21 Uhr gebucht .	10.978269577026367	2.630951166152954
+Gern geschehen , tschüss !	11.360856056213379	-0.06511754542589188
+Guten Morgen , wie kann ich helfen ?	11.293279647827148	6.1390461921691895
+Sicher kann ich das . Was möchten Sie gerne ?	11.055000305175781	3.768967628479004
+Was wollten Sie darauf haben ?	11.733819961547852	-0.12373790889978409
+in Ordnung . Und welche Art von Kruste möchten Sie ?	11.1561279296875	1.945488691329956
+Wollten Sie eine dicke Kruste für alle 3 ?	11.245733261108398	4.304960250854492
+Zur Bestätigung : Die Bestellung ist für 3 mittelgroße Pizzen , alle mit dicker Kruste , 1 Käsepizza , 1 Veggie-Lovers und 1 mit Wurst .	13.44788646697998	-0.245247483253479
+$ 30,19 ist die Summe . Soll ich die Bestellung jetzt zur Abholung aufgeben ?	11.683201789855957	4.179166793823242
+Wunderbar , ich habe die Bestellung abgeschickt . In 45 Minuten ist sie fertig .	11.16563892364502	1.0799890756607056
+brauchen Sie noch etwas ?	11.255547523498535	-2.4946696758270264
+Gut . Auf Wiedersehen .	11.421032905578613	1.4229499101638794
+Wie geht es Ihnen ?	12.061859130859375	0.5220963358879089
+Und wohin möchten Sie ?	11.715291023254395	0.07682663202285767
+Ist das in Albany New York ?	11.590705871582031	-0.6472119688987732
+Danke , verstanden .	11.142499923706055	11.612683296203613
+Was ist der Abholort ?	11.981307029724121	2.3189854621887207
+Und wie viele Plätze brauchen Sie ?	11.122527122497559	1.3635605573654175
+Großartig . Ich kann Ihnen ein Lyft oder 2 geteilte Fahrten buchen . Was würden Sie bevorzugen ?	11.945555686950684	2.231140613555908
+Alles klar . Das kostet zwischen 18 und 21 Dollar und dauert 22 Minuten . Ist es für jetzt oder für geplant ?	11.129422187805176	-4.787796974182129
+Sicher . Es wird um 21 Uhr ankommen und der Fahrer wird Sie per Handy benachrichtigen , wenn er unterwegs ist .	11.597248077392578	1.6225998401641846
+Ich wünsche Ihnen eine gute Fahrt , tschüss .	11.392505645751953	3.689192771911621
+Hallo , wie kann ich Ihnen helfen ?	11.271459579467773	1.4430783987045288
+Sicher , darf ich bitte Ihren Namen haben ?	10.818934440612793	3.1386759281158447
+Können Sie bitte Ihren Nachnamen buchstabieren ?	11.851072311401367	4.680795669555664
+Danke , und bitte Ihre Telefonnummer ?	11.052971839904785	0.15815894305706024
+Danke . Bob Johnson , 813 574 4922 , ist das richtig ?	10.842660903930664	-1.2396879196166992
+Danke für die Bestätigung . Was ist der Grund für Ihren Termin ?	10.906232833862305	0.0073361992835998535
+Okay , und wann möchten Sie Ihr Auto zur Werkstatt bringen ?	11.517630577087402	1.5773149728775024
+Es sieht so aus , als ob ihr nächster Termin am Montag , den 4. Februar ist .	11.212769508361816	-1.1288557052612305
+Können Sie Ihr Auto vor 8 : 30 Uhr dort nehmen ?	11.238758087158203	1.3144831657409668
+Sie befinden sich in der Lincoln Avenue 324 . Können Sie diese Adresse bitte bestätigen ?	11.346175193786621	2.2528371810913086
+Danke . Außerdem haben sie eine Inspektionsgebühr von 89 $ . Darf ich Ihren Termin weiterhin buchen ?	10.999629020690918	-4.14617919921875
+Also nur zur Bestätigung : Ihr 2009 BMW 3er hat ein Ölleck , ist das richtig ?	10.433653831481934	3.3987269401550293
+Ok , Sie sind bereit für Montag , den 4. Februar um 8 : 30 Uhr .	10.81869125366211	3.420548915863037
+Gern geschehen ! Tschüss .	11.383359909057617	4.979579925537109
+Hallo , wie kann ich Ihnen helfen ?	11.262104988098145	2.106630802154541
+Darf ich bitte Ihren vollständigen Namen haben ?	11.372201919555664	2.528294801712036
+Können Sie bitte Ihren Nachnamen buchstabieren ?	11.999307632446289	4.933452606201172
+Ok und wie lautet Ihre Telefonnummer ?	11.578641891479492	1.2541953325271606
+Also gerald Hayworth , 777 777 6666 , richtig ?	11.69156551361084	-1.294616937637329
+Was ist der Grund für Ihren Termin ?	11.559755325317383	2.0450284481048584
+Ok . Welches Modell ist Ihr Fahrzeug ?	11.493181228637695	2.533219575881958
+Also Ihr 2008 Mercedes Benz C-Klasse macht Geräusche , wenn Sie abbiegen , richtig ?	11.57015609741211	-1.3383210897445679
+Wann möchten Sie Ihr Auto zur Werkstatt bringen ?	11.549529075622559	1.0856574773788452
+Ihre nächste Verfügbarkeit ist heute um 16 Uhr . Passt das ?	10.973963737487793	0.7362778186798096
+Es gibt auch eine Inspektionsgebühr in Höhe von 89 $ , die zu Ihrer Gesamtsumme addiert wird . Kann ich mit der Buchung Ihres Termins fortfahren ?	11.516005516052246	6.048514366149902
+in Ordnung . Stellen Sie sicher , dass Sie ihre Adresse haben : 700 Blue Lake Drive .	11.89422607421875	2.971146821975708
+Sie sind bereit für heute um 16 Uhr .	11.464760780334473	6.523231029510498
+Großartig , tschüss !	11.364115715026855	2.6246790885925293
+Hallo , wie kann ich Ihnen helfen ?	11.122214317321777	0.06186056137084961
+sicher . Was möchten Sie bei Starbucks bestellen ?	11.458076477050781	2.5609893798828125
+Verstanden . Und wollten Sie dabei Süßstoff oder Sirup ?	10.737939834594727	4.945937156677246
+Verstanden .	12.213168144226074	3.8142919540405273
+Sonst noch etwas .	12.061565399169922	3.3643014430999756
+In Ordnung . Sie möchten also 1 Venti Cappuccino mit 2 % Milch und 3 Silverdas , ist das richtig ?	12.100672721862793	11.1477632522583
+Soll ich jetzt bestellen ?	11.764093399047852	2.037193536758423
+Ok , Ihr Getränk wurde bestellt . Es ist in 10 Minuten im Starbucks in der California Street abholbereit .	12.202136993408203	2.968202829360962
+Ihre Quittung wird per SMS an Ihr Mobilgerät gesendet . Genießen Sie es !	11.313708305358887	-0.08259546756744385
+Hallo . Wie kann ich helfen ?	11.176103591918945	0.06528598070144653
+Sicher !	12.349431991577148	7.567241668701172
+Welche Art von Restaurant suchen Sie ?	11.88847541809082	3.9601500034332275
+Okay !	12.459425926208496	5.839622497558594
+Irgendwelche Präferenzen auf der Küche ?	11.565590858459473	2.336287498474121
+In Ordnung ! Danke .	11.170304298400879	3.8701367378234863
+Geben Sie mir einen Moment , um ein paar gute Optionen für Sie zu finden !	11.656102180480957	0.708837628364563
+Haben Sie eine Präferenz vor Ort ? Wie auf dem Wasser oder in der Innenstadt ?	11.750723838806152	1.3586795330047607
+Großartig ! Einen Moment .	11.597868919372559	-0.14014554023742676
+Ich habe ein paar gefunden , in der Nähe der Marktstraße , die Sie genießen könnten .	11.279842376708984	0.3493978977203369
+Das MKT Restaurant and Bar bietet unglaubliche Steaks und Salate .	11.070769309997559	-0.8039308786392212
+Es gibt auch Amber , das beliebt ist .	11.651801109313965	1.0843559503555298
+Das tun sie sicher !	12.398787498474121	8.206772804260254
+Ja , Amber ist für ihre NY-Steaks bekannt .	11.738377571105957	4.454014778137207
+Ja ! Amber hat , wie der Name vermuten lässt , eine große Auswahl an dunklen Biere .	11.454203605651855	-1.9887807369232178
+Großartig ! Hört sich nach einer guten Wahl an .	10.6683988571167	4.112100601196289
+Wie viele Leute werden mit Ihnen essen ?	11.656159400939941	2.165849208831787
+Okay , also insgesamt 5 Personen , richtig ?	11.093300819396973	-0.7996478080749512
+Großartig !	11.571352005004883	3.9457921981811523
+und das ist für heute Abend ?	11.457385063171387	0.7942692637443542
+Okay , hört sich 19 : 45 Uhr für Sie okay an ?	11.023550033569336	5.830791473388672
+Großartig ! Lassen Sie mich das für Sie einfrieren .	11.077596664428711	3.6898741722106934
+In Ordnung . Ihre Reservierung für 5 Personen um 19 : 45 Uhr wurde bestätigt . Sie finden den Status auf Ihrem Mobilgerät .	11.088224411010742	5.276148796081543
+Lassen Sie mich das überprüfen .	12.400850296020508	0.1625896692276001
+Es sieht so aus , als gäbe es Platz in der Bar .	11.288017272949219	6.308524131774902
+Es kann jedoch nicht reserviert werden .	11.914678573608398	2.659639358520508
+Großartig !	11.571352005004883	3.9457921981811523
+Kann ich sonst noch etwas für Sie tun ?	11.366918563842773	-1.0211347341537476
+In Ordnung ! Gern geschehen !	11.168949127197266	0.09732234477996826
+und genießen Sie Ihre Mahlzeit !	11.138022422790527	0.34678733348846436
+Hallo .	12.438253402709961	7.309933662414551
+Wie kann ich helfen ?	11.717289924621582	3.7894673347473145
+Sicher ! Lassen Sie mich sehen , was ich tun kann .	11.277921676635742	5.862974166870117
+Es sieht so aus , als kann ich etwas für Sie zur Abholung bestellen .	11.336244583129883	2.435216188430786
+Ist das in Ordnung ?	12.22491455078125	1.3067046403884888
+In Ordnung . Was möchten Sie gerne ?	11.485569953918457	5.4055938720703125
+Das ist sicher !	12.127408027648926	8.005946159362793
+An welche Größe haben Sie gedacht ?	11.8735990524292	3.9144349098205566
+Venti natürlich .	12.21038818359375	4.234623432159424
+Heavy Sahne , leider ist keine Option für diesen Peverage .	11.058332443237305	5.192592144012451
+Ist Vollmilch okay ?	11.73418140411377	4.514797210693359
+Mandelmilch , sicher .	12.215786933898926	4.085454940795898
+Suchen Sie nach Milchoptionen ?	11.596470832824707	0.0700838565826416
+Sie können auch Schlagsahne hinzufügen .	11.112476348876953	-0.9040700197219849
+Caramel Sprühen .	12.430306434631348	1.754872441291809
+Ganz sicher .	12.535408973693848	1.2519632577896118
+Okay , lassen Sie mich das alles für Sie starten .	11.415570259094238	5.585433006286621
+Einen Moment bitte .	12.3624906539917	7.618488788604736
+Ein Venti Cinnamon Shortbread Latte , mit Mandelmilch und Whippahne sowie Crumbles und Cinnamon .	13.549517631530762	4.537473678588867
+Ist das heiß ?	12.229737281799316	3.795496702194214
+Iced , verstanden !	11.331506729125977	3.9183671474456787
+Natürlich , einen Moment !	11.714675903320312	5.460887908935547
+Ja , das ist eisgekühlt , ebenso wie Frappuccino .	11.476522445678711	3.81379771232605
+Ganz sicher .	12.535408973693848	6.341760158538818
+Ein Venti Cinnamon Shortbread Latte Frappuccino .	12.150991439819336	0.28639501333236694
+Großartig , danke .	11.37668514251709	4.6238112449646
+Und wird das in der California Street in SF abgeholt werden ?	11.755044937133789	5.522974014282227
+Okay , vielen Dank für die Bestätigung .	11.338876724243164	2.980050802230835
+Ich habe Ihre Bestellung abgeschickt .	11.797163963317871	2.581514358520508
+Das Getränk ist in 5 Minuten fertig .	11.486495018005371	1.1018047332763672
+Und die Quittung wird Ihnen per E-Mail zugeschickt .	11.167359352111816	2.160532236099243
+Ist das alles für Sie heute ?	11.606850624084473	4.566793441772461
+Großartig , gern geschehen .	11.799606323242188	7.339528560638428
+Ich wünsche Ihnen einen schönen Tag !	11.491108894348145	4.660645008087158
+Hallo , wie geht es Ihnen ?	11.601690292358398	2.807725429534912
+Und wohin möchten Sie ?	12.054237365722656	0.7559585571289062
+Wie viele Plätze brauchen Sie ?	11.454038619995117	0.3335997760295868
+Großartig . Ich kann Ihnen und Uber X oder XL anbieten .	10.52264404296875	5.050546169281006
+Alles klar . Es dauert 30 Minuten und kostet 36 Dollar und 77 Cent .	10.231857299804688	-0.7658776044845581
+Gute Fahrt . Sie erhalten eine Benachrichtigung , wenn der Fahrer unterwegs ist .	11.54688835144043	2.7960050106048584
+Hallo , wie kann ich Ihnen helfen ?	11.37203311920166	2.3465490341186523
+Ok , wie viele Pizzen möchten Sie ?	11.312180519104004	3.111659049987793
+welche Größe ?	12.397176742553711	0.26726168394088745
+Welche Art von Belägen ?	11.659677505493164	-1.3443742990493774
+Welche Art von Kruste möchten Sie ?	11.531513214111328	4.353947639465332
+Haben Sie eine dicke Kruste gesagt ?	11.846762657165527	2.691192865371704
+Danke . Irgendwelche anderen speziellen Anweisungen ?	11.492764472961426	3.54425311088562
+Also habe ich : 3 kleine Pizzen . Eine Veggie-Lover , die andere mit Bacon , Rindfleisch und Wurst und die dritte ist eine 6 Käse Pizza mit dünner Kruste .	12.16893482208252	9.707563400268555
+Verstanden . Ihre Summe ist $ 35 .	11.249414443969727	3.534898281097412
+Ihre Pizzen werden in Kürze bei Bella Luna abholbereit sein .	10.948582649230957	2.316202163696289
+Gern geschehen , tschüss !	11.184263229370117	-1.4025654792785645
+Hallo , wie kann ich Ihnen helfen ?	11.37203311920166	5.997817039489746
+im Ordnung , Sie ?	11.597996711730957	3.6941616535186768
+Sicher , wie viele Pizzen möchten Sie ?	11.395264625549316	4.705080986022949
+Bitte gehen Sie etwas langsam	12.401827812194824	1.9395101070404053
+Also , welche Größe möchten Sie ?	11.735417366027832	2.828044891357422
+Ok , welche Beläge ?	11.28909683227539	2.4257116317749023
+Welche Art von Kruste möchten Sie ?	11.531513214111328	4.353947639465332
+dünne Kruste auf beiden Pizzen ?	11.647912979125977	3.5298564434051514
+Also , 2 große Pizzen , eine Fleischliebhaber ohne Canadian Bacon. die zweite wird halb Peperoni , halb Käse sein . dünne Kruste und extra Käse auf dem Boten . Ist das richtig ?	13.644746780395508	-0.42750030755996704
+Ja .	12.883161544799805	0.6458095908164978
+Großartig . Ihre Summe ist $ 31.50 .	11.556587219238281	-1.16688072681427
+Ihre Pizzen werden in Kürze bei Bella Luna abholbereit sein .	10.948582649230957	2.316202163696289
+Gern geschehen , tschüss !	11.184263229370117	-1.4025654792785645
+Hallo , wie kann ich Ihnen helfen ?	11.149786949157715	1.4874671697616577
+Ich kann Ihnen bei der Suche nach Optionen helfen . Ist das das , was Sie möchten ?	10.945908546447754	3.789836883544922
+Verstanden . Welche Art von Essen wollten Sie ?	10.871452331542969	3.7229485511779785
+in Ordnung . Welche Restaurantkriterien oder Vorlieben haben Sie ?	11.285036087036133	0.4594794809818268
+Toll , lassen Sie mich nach Optionen für Sie suchen . Einen Moment bitte .	11.126899719238281	3.3521413803100586
+Ich habe ein paar Optionen gefunden. die erste heißt Pieologie-Pizzeria . Kettenpizzeria mit ofengefärbten Pasteten aus einer Vielzahl von Soßen , Käse & Topping. die zweite heißt Broderick ' s Roadhouse. leider hat Broderick ' s keine kleine Beschreibung online , aber es hat eine 4,4-Sterne-Bewertung und über 500 Bewertungen .	13.725360870361328	0.5652978420257568
+Die dritte heißt Buckhorn Grill . Eine familienfreundliche Kette mit großen Portionen Steaks , Sandwiches , Burger & anderen amerikanischen Gerichten .	10.440824508666992	-3.8397579193115234
+Benötigen Sie weitere Informationen zu einem der von mir erwähnten Orte ?	11.356749534606934	-1.8975155353546143
+Ja , tun sie .	12.415560722351074	2.5919711589813232
+sicher , einen Moment .	12.592437744140625	4.8569135665893555
+Die Nummer ist ( 9 1 6 ) , 4 4 6 , 3 7 5 7 .	11.66743278503418	-0.5203109979629517
+Brauchen Sie heute noch etwas anderes ?	11.87736701965332	9.84780502319336
+OK , genial . Auf Wiedersehen .	11.830866813659668	3.2374184131622314
+Hallo , wie kann ich Ihnen helfen ?	11.729663848876953	2.938948631286621
+Ist es ! Haben Sie ein Kino im Sinn ?	11.538285255432129	2.0094008445739746
+Großartig , und möchten Sie 3D , XD oder Standard ?	11.340900421142578	4.653074264526367
+2 Stunden 5 Minuten . Passt Ihnen das Cinemark Movie Bistro um 19 : 30 Uhr ?	10.904461860656738	3.379551410675049
+Hm ... Es sieht so aus , als ob die Vorstellung ausverkauft ist . Soll ich eine andere auswählen oder sie stornieren ?	10.368952751159668	-2.461819648742676
+Das ist 19 : 45 Uhr , für insgesamt 45.88 $ okay ?	11.023240089416504	1.3489887714385986
+Großartig , Sie bekommen die Tickets in Kürze per Handy . Viel Spaß .	10.914435386657715	9.16383171081543
+Kein Problem , haben Sie ein gutes .	11.551318168640137	-0.4636106491088867
+Hallo !	12.369860649108887	5.635682106018066
+Womit kann ich Ihnen behilflich sein ?	12.004456520080566	2.043369770050049
+Sicher , welchen Film ?	12.422053337097168	5.030644416809082
+Großartig , und für wie viele Leute ?	11.659293174743652	9.889081001281738
+Studio City Mesa zeigt zu folgenden Zeiten Bumblebee 16 : 10 Uhr , 18 : 50 Uhr und 21 : 30 Uhr .	10.433328628540039	-2.4792089462280273
+Klingt eine dieser Zeiten gut für Sie ?	11.681975364685059	0.40393027663230896
+Bumblebee für 2 Personen um 21 : 30 Uhr im Studio City Mesa wird 25 $ kosten .	11.004989624023438	-1.0560551881790161
+Soll ich die Zahlung jetzt bearbeiten ?	11.66970443725586	2.6247894763946533
+Toll , ich habe Ihre Tickets gebucht , sie sollten per SMS an Ihr Telefon gesendet werden .	10.8120698928833	4.0684919357299805
+Brauchen Sie sonst noch etwas ?	11.690879821777344	-0.37782612442970276
+Toll , viel Spaß . Gern geschehen .	11.086758613586426	1.5661029815673828
+Guten Morgen .	12.59540843963623	5.377372741699219
+Womit kann ich Ihnen behilflich sein ?	11.789810180664062	1.9366950988769531
+in Sacremento ?	12.12465763092041	3.649519681930542
+Großartig , was wollten Sie essen ?	11.626639366149902	5.153035640716553
+Okay , ich habe ein paar Optionen . Während ich sie einschleiche , geben Sie bitte ein paar Dinge an , die Sie für Ihr Speiseerlebnis benötigen .	11.258282661437988	1.2776331901550293
+Also habe ich zwei große Optionen gefunden . Zuerst habe ich Plutos lokale Kette mit Sitzgelegenheiten , die neben dem Restaurant auch selbst Salate & Sandwiches in einer lockeren , modernen Umgebung anbietet . Dann habe ich auch das Marketplace Cafe , das keine Beschreibung anbietet , aber gut bewertet ist und vegetarische Optionen bietet .	13.796789169311523	2.142467975616455
+Ja .	12.87907600402832	1.7398625612258911
+Es sind ungefähr 5 $ pro Mahlzeit .	11.476314544677734	1.4647423028945923
+Großartig , die Telefonnummer lautet ( 916 ) 565-4114 .	11.936710357666016	0.26581621170043945
+Viel Spaß .	11.901457786560059	2.1886234283447266
+Hallo , wie kann ich Ihnen heute helfen ?	11.280311584472656	2.4516289234161377
+sicher , bei welchem Starbucks soll ich bestellen ?	11.595836639404297	4.990598678588867
+Verstanden . Brauchen Sie noch etwas von Starbucks ?	11.034765243530273	5.730508327484131
+1 Grande Caramel Frappuccino von Starbucks in der 331 West Superior Street wird 5,50 $ kosten .	11.17159652709961	1.3836342096328735
+Soll ich jetzt bestellen ?	11.740150451660156	-0.063041090965271
+Toll , ich habe Ihre Bestellung abgeschickt . Sie ist in etwa 10 Minuten abholbereit . Die Quittung wurde Ihnen per SMS zugeschickt .	10.035764694213867	0.08825218677520752
+Brauchen Sie sonst noch etwas ?	11.690879821777344	-1.1790096759796143
+cool , genießen Sie dieses Getränk .	11.558358192443848	4.461002826690674
+Womit kann ich Ihnen behilflich sein ?	11.765843391418457	3.61263370513916
+Klare Sache . Was möchten Sie gerne essen ?	11.212259292602539	0.7645388841629028
+Haben Sie irgendwelche Restaurantvoraussetzungen ?	11.801636695861816	2.3725037574768066
+Alles klar . Geben Sie mir eine Minute oder zwei Minuten und ich werde die 2 besten Optionen für Sie heraussuchen .	10.715804100036621	0.5190651416778564
+Als erstes habe ich Teriyaki Grill , ein schönes großes chinesisches Restaurant , das derzeit nicht zu voll ist .	9.962096214294434	1.9534251689910889
+Es befindet sich in der Nähe des Food Court in der Mall .	11.385777473449707	-0.2576029896736145
+Dann gibt es noch das Dos Coyotes Border Cafe auch im Einkaufszentrum und nicht zu voll .	10.28966236114502	3.7942028045654297
+Sie haben ein besonderes auf Fish Tacos .	11.75322151184082	3.653958320617676
+Ich meine , Sie könnten Taqueria Garbaldi ausprobieren , aber die meisten Orte in der Gegend sind ziemlich voll , besonders , um hinzusetzen .	10.183955192565918	2.266514778137207
+mindestens eine Stunde manchmal 2 .	11.823070526123047	0.7030845880508423
+Verstanden , lassen Sie mich diese Telefonnummer für Sie finden .	10.847554206848145	4.207884311676025
+( 916 ) 920-0959 .	12.129769325256348	1.9124839305877686
+Lassen Sie mich wissen , ob ich das wiederholen muss .	11.50432014465332	0.8692100644111633
+( 916 ) 920-0959 .	12.129769325256348	1.9124839305877686
+Großartig , genießen Sie Ihr Mittagessen .	11.40622329711914	5.036394119262695
+Guten Morgen , wie kann ich Ihnen helfen ?	11.173596382141113	2.758380651473999
+Sicher , was wollten Sie bestellen ?	11.643534660339355	4.201634883880615
+Zur Bestätigung : Sie sagten , Sie wollten 3 mittelgroße Pizzen mit dünner Kruste , 1 Käseliebhaber , 1 Veggie-Lover und 1 Meat Lover mit Wurst , Peperoni , Schinken , Rindfleisch und Speck .	13.576495170593262	0.7945666909217834
+Ist das richtig ?	12.118843078613281	0.8722794651985168
+Die Summe beträgt 35.30 $ . Möchten Sie diese Bestellung jetzt zur Abholung aufgeben ?	10.72012996673584	0.38889339566230774
+Ok , ich habe die Bestellung abgeschickt . Sie ist in 45 Minuten fertig .	10.656658172607422	2.2793614864349365
+Brauchen Sie sonst noch etwas ?	11.410331726074219	-1.1790119409561157
+Genial , genießen Sie diese Pizzen .	11.269234657287598	-2.5833230018615723
+Hallo , wie kann ich Ihnen helfen ?	11.277205467224121	3.39738130569458
+Sicher , lassen Sie uns Ihnen Tickets geben . In welcher Stadt sind Sie ?	11.141487121582031	1.815142273902893
+Und was wollten Sie sehen ?	11.452980041503906	-1.2363862991333008
+Wie viele Tickets brauchen Sie ?	11.62621784210205	-0.01526725571602583
+Und schließlich , wann wollten Sie ihn sehen ?	11.392498970031738	2.1578407287597656
+Ok , ich werde jetzt die Vorstellungszeiten überprüfen .	10.936687469482422	0.6512662768363953
+Einen Moment bitte .	12.417611122131348	5.543274402618408
+Die frühesten Vorstellungszeiten für die Drachenzählung : Die verborgene Welt befindet sich in den Regal Cinemas Western Gate 11. Die Vorstellungszeiten sind 12 : 00 Uhr , 13 : 30 Uhr und 14 : 30 Uhr .	11.738368034362793	0.7613418698310852
+Wollten Sie die Mittagsvorführung ?	11.452079772949219	0.6820243000984192
+2 Tickets für die Mittagsvorführung , wie Sie Ihren Drachen ausbilden : Die verborgene Welt in den Regal Cinemas Western Gate 11 wird $ 20. Soll ich die Tickets jetzt bearbeiten ?	11.25606918334961	-0.2160833328962326
+Leider ist die Vorstellung um 12 Uhr ausverkauft . Bummer ! Wollten Sie die Vorstellung danach , die um 13 : 30 Uhr ist ?	10.516880989074707	-0.6952993273735046
+Toll , ich habe Ihre Tickets gebucht , sie werden in Kürze an Ihr Telefon gesendet . Brauchen Sie heute noch etwas ?	9.657430648803711	4.442139148712158
+Der Regisseur ist Dean Deblois .	11.803434371948242	4.3882622718811035
+genial , viel Spaß .	11.685614585876465	-2.2962331771850586
+Hallo ! Wie kann ich Ihnen helfen ?	11.237222671508789	1.8836828470230103
+Es tut mir leid .	12.108657836914062	1.4662443399429321
+Können Sie das wiederholen ?	12.238186836242676	1.0149791240692139
+das .	12.625860214233398	0.8538355827331543
+OK .	12.632723808288574	9.72404670715332
+welche Größe ?	12.473847389221191	0.8912745118141174
+und welche Milch ?	11.825185775756836	1.3360975980758667
+OK .	12.632723808288574	9.72404670715332
+Irgendein Süßstoff oder Sirup ?	11.901137351989746	2.64046049118042
+hört sich gut an .	12.369795799255371	2.164982318878174
+Welchen Starbucks-Standort ?	12.302191734313965	-0.25190284848213196
+Verstanden .	12.31495475769043	4.8526482582092285
+Sie möchten einen großen Cappucino Vollmilchschokoladensäuren und extra Schokoladensauger .	12.089559555053711	2.582796096801758
+Die Kosten betragen 3,69 $ .	12.057860374450684	0.9966266751289368
+in der California Street abgeholt werden .	12.09841251373291	-0.22265055775642395
+Die Bestellung ist festgelegt .	12.361307144165039	2.0118980407714844
+Ihre Bestellung wird bald fertig sein .	12.114760398864746	2.449929714202881
+Auf Wiedersehen .	12.320819854736328	3.9718966484069824
+Hallo ! Wie kann ich helfen ?	11.219196319580078	1.383561134338379
+Gut ! Wo möchten Sie abgeholt werden ?	11.653302192687988	5.896698951721191
+Okay , ist das Museum bei 211 Stearns Wharf ?	11.712884902954102	3.469109535217285
+Oh ! Ich sehe einen Moment .	11.851618766784668	3.119249105453491
+Verstanden und wohin möchten Sie ?	11.361649513244629	3.302011251449585
+Okay , Arroyo Burro Beach .	12.287091255187988	3.6894326210021973
+Wie viele Passagiere wird es geben ?	12.15246868133545	6.430563449859619
+Okay , eine Präferenz für Lyft ? einen normalen oder einen XL ?	11.802814483642578	8.409022331237793
+Klar , und Sie suchen es nach ASAP ?	11.734952926635742	5.109448432922363
+Klar , die Kosten werden auf 13,44 $ geschätzt und werden ungefähr 15 Minuten dauern .	11.827902793884277	3.2655534744262695
+Wenn Sie die Fahrt jetzt buchen , wird es in 4 Minuten da sein .	11.730518341064453	2.041100025177002
+Klar , einen Moment .	12.149208068847656	2.15114426612854
+Okay , Ihr Fahrer wurde benachrichtigt . Sie sollten innerhalb von 3-5 Minuten ankommen .	11.898062705993652	3.117906093597412
+Sie können den Status Ihrer Fahrten auf Ihrem Mobilgerät überprüfen .	11.7424898147583	3.8890798091888428
+Kann ich Ihnen sonst noch helfen ?	10.718421936035156	4.217842102050781
+Sehr gern geschehen .	12.2626953125	0.9366837739944458
+Ich wünsche Ihnen einen schönen Tag .	11.72204303741455	1.2438104152679443
+Auf Wiedersehen !	12.129133224487305	4.634200572967529
+Hallo , wie kann ich Ihnen helfen ?	11.335602760314941	2.221090078353882
+Sicher , was möchten Sie bestellen ?	11.887014389038086	9.746707916259766
+Möchten Sie Milch hinzufügen ?	11.664306640625	-1.4624580144882202
+Ok , Sie bestellen einen Grande Mocha Latte mit 2 % und ohne Schlagsahne . Ist das richtig ?	12.548598289489746	2.1260037422180176
+Großartig , an welchem Ort möchten Sie ihn abholen ?	11.786589622497559	4.0828142166137695
+Haben Sie Soldier Field Road gesagt ?	11.766672134399414	-0.02704566717147827
+Verstanden , ich werde Ihre Bestellung an den Starbucks auf der Soldiers Field Road senden . Ihr Getränk ist in 5 Minuten fertig .	13.810385704040527	3.5426254272460938
+Kann ich mit irgendetwas anderem helfen ?	11.288128852844238	-0.09256267547607422
+Gern geschehen , genießen Sie Ihren Kaffee .	11.387616157531738	2.332878351211548
+Hallo , wie kann ich Ihnen helfen ?	11.23074722290039	1.7635498046875
+in Ordnung . Was möchten Sie auf diesen 4 Pizzen bestellen ?	12.01365852355957	1.5537029504776
+Großartig . Die Bestellung , die Sie gesagt haben , ist für 4 Pizzen mit mittlerer Kruste , 1 mit Peperoni , 1 Supreme , 1 Grillhähnchen und 1 Hälfte Wurst und Pilze sowie halb Zwiebeln und Hähnchen .	13.492441177368164	5.824772834777832
+Ist das korrekt ?	12.308371543884277	1.4681346416473389
+Die Bestellung wird 64,29 $ betragen .	11.594507217407227	0.5722933411598206
+Wollten Sie , dass ich es jetzt platziere ?	11.414224624633789	2.0564234256744385
+Ok , ich habe die Bestellung abgeschickt . Sie ist in 35 Minuten abholbereit .	10.38869857788086	2.6395812034606934
+Benötigen Sie weitere Hilfe ?	11.0817289352417	4.240924835205078
+in Ordnung . Passen Sie auf sich auf .	12.024596214294434	3.120339870452881
+Hallo , wie kann ich Ihnen helfen ?	11.269698143005371	5.793004512786865
+Sicher , kann ich das . Wann möchten Sie ihn sehen ?	11.185770988464355	2.0439987182617188
+Verstanden und wie viele Tickets brauchen Sie ?	11.025644302368164	3.7513039112091064
+Lassen Sie mich das untersuchen , geben Sie mir bitte einen Moment .	11.43407917022705	3.0689220428466797
+Es sieht so aus , als gäbe es eine Vorstellung von Greenbook um 21 : 55 Uhr . Passt das für Sie und Ihre Gruppe ?	9.607096672058105	2.1370644569396973
+Großartig , 3 Tickets für die Vorstellung um 21 : 55 Uhr kosten 30 $ .	10.864360809326172	2.3366539478302
+Möchten Sie jetzt kaufen ?	11.879374504089355	3.3374087810516357
+Toll , ich habe die Tickets auf Ihrem Konto gekauft . Sie werden in Kürze auf Ihrem Mobilgerät verfügbar sein .	10.529094696044922	0.10959842801094055
+Benötigen Sie weitere Hilfe ?	11.131033897399902	3.6114237308502197
+Zu denen auch Viggo Mortensen und Mahershala ali gehören .	11.651247024536133	1.7926902770996094
+Gern geschehen .	12.23879623413086	5.213142395019531
+Passen Sie auf sich auf .	12.210375785827637	4.432392597198486
+Womit kann ich Ihnen behilflich sein ?	11.538115501403809	5.032451629638672
+Ich kann Ihnen dabei helfen . Wofür sind Sie in der Stimmung ?	10.848457336425781	6.523066520690918
+und haben Sie irgendwelche Essensvorlieben ?	11.604510307312012	2.3756496906280518
+Toll , einen Moment , während ich ein paar Optionen für Sie wähle .	11.321401596069336	3.202667236328125
+Als erstes habe ich den Melting Pot gefunden , eine Restaurantkette von Fondue , die beheizbare Käse- , Schokoladen- oder Brottöpfe zum Essen & Kochen anbietet . Dann habe ich das Ju Hachi gefunden , das Sashimi , Nudeln & japanische Hauptgerichte in einem entspannten Raum mit Sushi-Bar & Sitzplätzen serviert . Schließlich habe ich Paesanos , ein normales italienisches Restaurant mit Go@@	13.344219207763672	3.0281245708465576
+Ja .	13.361995697021484	4.136653900146484
+tut es .	13.01882266998291	1.0196503400802612
+Es sind ungefähr 20 Dollar pro Teller .	12.493144035339355	9.191128730773926
+sicher , es ist ( 916 ) 448-3481 .	12.690934181213379	4.446030139923096
+Natürlich , ich wünsche Ihnen einen schönen Tag .	12.513177871704102	1.190910816192627
+Hallo , wie kann ich Ihnen helfen ?	12.608654022216797	3.7964391708374023
+Großartig und wie lautet der Name für diesen Termin ?	12.35351848602295	-0.8652051687240601
+Wie buchstabiert man das ?	12.884949684143066	0.6104279160499573
+Das ist also Burt Smith unter 555 737 2277 , richtig ?	12.54297161102295	-0.7202147245407104
+Großartig ! Alles klar . Wann möchten Sie das sehen ? Denken Sie daran , dass alle Autos spätestens um 8 : 30 am Tag des Termins abgesetzt werden müssen .	11.399697303771973	6.671866416931152
+Entschuldigung , sie sind bis Montag , den 4. , ausgebucht .	12.116734504699707	2.0585453510284424
+Alles klar . Und was ist das Problem mit dem Auto ?	12.339394569396973	2.110074996948242
+Ich habe einen 2008 Mercedes Benz C-Klasse mit einem Ölleck , der am Montag , den 4. März um 8 : 30 Uhr angeschaut wird .	11.369673728942871	-0.12841877341270447
+Perfekt .	12.82954216003418	5.336604118347168
+Wissen Sie , wo die Werkstatt ist ?	12.514904975891113	0.6943420767784119
+Und sind Sie sich der Inspektionsgebühr für den Termin bewusst ?	11.355680465698242	7.052382946014404
+Dann sind Sie fertig .	11.753090858459473	2.164357900619507
+Sie sind fertig . Ich habe den Termin bestätigt .	11.009268760681152	6.661952018737793
+Kein Problem , tschüss .	12.128767013549805	4.324568748474121
+Hallo . Wie kann ich Ihnen helfen ?	11.345452308654785	3.4768364429473877
+Sicher , welche Beläge wollten Sie auf diesen 2 kleinen Pizzen ?	11.130767822265625	3.931518316268921
+Verstanden . Die Summe für 2 kleine Pizzen , Peperoni auf 1 und Wurst auf der anderen . Beide mit dicker Kruste sind $ 24,99 .	10.538596153259277	-0.8538284301757812
+Brauchen Sie sonst noch etwas ?	11.41755199432373	-0.3596692383289337
+Toll , ich werde jetzt Ihre Bestellung aufgeben .	11.178849220275879	2.757493495941162
+Es ist in 35 Minuten abholbereit .	11.511168479919434	1.7570338249206543
+Brauchen Sie sonst noch etwas ?	11.41755199432373	3.0816574096679688
+Genial , genießen Sie diese Pizzen .	11.269234657287598	4.295608997344971
+Sicher , bei welchem Mechaniker soll ich einen Termin vereinbaren ?	11.424147605895996	3.321711301803589
+Hallo .	12.392951965332031	2.813790798187256
+in Ordnung . Wie lautet Ihr Name für den Termin ?	11.098841667175293	1.6389098167419434
+Wie buchstabiert man das ?	11.963361740112305	2.470365524291992
+Vielen Dank . Und wie lautet Ihre Nummer ?	11.112677574157715	3.161259412765503
+Sie sagten 999-999-9999 .	12.095752716064453	5.46146297454834
+Ist das richtig ?	12.118843078613281	-0.9626863598823547
+Welche Art von Fahrzeug haben Sie ?	11.97701644897461	1.8447717428207397
+Und warum brauchen Sie den Termin ?	11.393367767333984	2.422520637512207
+Ich werde dies als Starterbewertung und Reparatur einstufen .	10.954109191894531	-0.04822635278105736
+Klingt das ok ?	12.189343452453613	3.587664842605591
+Also zwei verschiedene Probleme . Ok , ich werde es nur als mechanische Bewertung und Reparatur einstufen .	10.214947700500488	-0.1613490730524063
+und wann möchten Sie den Termin ?	11.581521987915039	2.193079948425293
+Zu welcher Zeit möchten Sie den Termin nächsten Freitag ?	11.270119667053223	2.7661561965942383
+Sicher , es sieht so aus , als ob diese Zeit verfügbar ist . Bevor ich Ihre Informationen bestätige und sie buche , wollte ich Sie wissen lassen , dass es eine 89 $ Gebühr für die Inspektion gibt .	11.213277816772461	14.916901588439941
+In Ordnung . Und die Informationen , die ich gesammelt habe , sind wie folgt . tanishia mccambell. die Telefonnummer lautet 999-9999 . 2013 Honda Pilot braucht eine mechanische Bewertung und Reparatur , Termin wird auf nächsten Freitag um 16 Uhr festgelegt .	13.679298400878906	0.26028212904930115
+Soll ich es jetzt buchen ?	11.565836906433105	3.208682060241699
+Toll , ich habe Ihren Termin für Sie gebucht . Benötigen Sie eine Wegbeschreibung oder Adresse ?	10.479866981506348	1.711500883102417
+Ok , Sie sind fertig . Brauchen Sie sonst noch etwas von mir ?	9.771978378295898	5.274111747741699
+Ok , passen Sie auf sich auf .	11.917732238769531	1.5449869632720947
+Hallo , wie kann ich Ihnen heute helfen ?	11.017650604248047	12.61541748046875
+Das hört sich nett. welche Art von Essen wollten Sie ?	10.812685012817383	3.107126474380493
+Gibt es Restaurantwünsche , die ich für Sie suchen soll ?	10.790279388427734	-1.8570499420166016
+Verstanden , einen Moment bitte , während ich das für Sie suche .	11.049732208251953	-1.446076512336731
+Ich habe ein paar Restaurants gefunden , die funktionieren könnten . Das erste heißt Daigo Sushi . Kleines Restaurant mit Sashimi & Sushi Rollen sowie innovativen Kombinationen . Das zweite ist Sushi Toni-Restaurant . Sashimi & japanische Gerichte plus Sake in einem hell bemalten Raum mit Bar & Tischecke .	13.65951919555664	0.24483563005924225
+Benötigen Sie weitere Informationen zu einer dieser ?	11.539278030395508	-0.046853214502334595
+Sushi Tomi ist derzeit nicht voll . Ihre bustenste Stunde ist um 19 Uhr , aber keine Wartezeit wird erwartet .	10.378353118896484	-2.911964178085327
+Die durchschnittlichen Kosten bei daigo Sushi betragen $ 10 pro Person .	11.213216781616211	-2.3083624839782715
+klingt prima . Wann möchten Sie eine Reservierung ?	11.034385681152344	1.490689754486084
+Wie viele Plätze brauchen Sie ?	11.64190673828125	3.957350730895996
+Eine Reservierung bei daigo Sushi für heute Abend um 19 Uhr für 2 Personen ist möglich . Ich werde sie jetzt für Sie buchen .	9.923705101013184	-1.1475921869277954
+Unter welchem Namen soll ich es buchen ?	11.399388313293457	-0.15955545008182526
+Toll , ich habe es für Sie gebucht . Brauchen Sie sonst noch etwas ?	10.109200477600098	0.10639876127243042
+genial . Ich wünsche Ihnen einen schönen Tag .	11.436467170715332	-1.5491936206817627
+Hallo , wie kann ich Ihnen helfen ?	11.435173034667969	2.2744319438934326
+Sicher , wo möchten Sie einen Termin vereinbaren ?	11.05671501159668	1.8381450176239014
+Können Sie mir bitte Ihren Namen und Ihre Nummer mitteilen ?	11.085381507873535	3.1510629653930664
+Ok , um zu bestätigen , wir buchen einen Termin für John Smith , Telefonnummer 562-984-9165 , richtig ?	10.491631507873535	2.998441457748413
+Welche Probleme haben Sie mit Ihrem Auto ?	11.710698127746582	5.525987148284912
+Wann möchten Sie Ihren Termin vereinbaren ?	11.616165161132812	5.199378490447998
+Wäre das der 25. Januar oder der 1. Februar ?	11.343324661254883	2.035651683807373
+Ok , lassen Sie mich sehen , ob sie verfügbar sind .	11.475175857543945	11.21668815612793
+Ok , sie können Ihr Auto am 25. inspizieren . Sie müssen Ihr Auto um 8 : 30 Uhr vorbeibringen . Passt das für Sie ?	10.373537063598633	15.48755168914795
+Können Sie mir das Jahr , die Marke und das Modell Ihres Autos mitteilen ?	10.910971641540527	4.3471503257751465
+Nur damit Sie Bescheid wissen , es gibt eine Inspektionsgebühr von 89 $ , die jedoch auf Ihre Reparatur angewendet werden kann .	9.964147567749023	-1.1415680646896362
+Ok , ich habe Ihren Termin für diesen Freitag , den 25. Januar um 8 : 30 Uhr bei Intelligent Auto Repairs für Ihren 2011 Nissan Rogue gebucht , der mehrere Lichter aus hat .	11.224615097045898	1.7806196212768555
+Kann ich mit irgendetwas anderem helfen ?	11.279319763183594	2.9355204105377197
+Ok , ich wünsche Ihnen einen schönen Tag .	11.62817668914795	1.986329197883606
+Hallo , wie geht es Ihnen ?	12.001986503601074	2.1047048568725586
+Großartig , danke , dass Sie gefragt haben .	11.628545761108398	3.135887384414673
+Womit kann ich Ihnen behilflich sein ?	11.680766105651855	1.6244741678237915
+Klar , und was wollten Sie essen ?	11.249542236328125	3.279162883758545
+Haben Sie irgendwelche Essensvorlieben ?	12.117290496826172	2.159092426300049
+Alles klar . Also ist Fast Food okay ?	11.11646556854248	0.2653837203979492
+Alles klar . Geben Sie mir eine Minute oder zwei Minuten und ich werde die 2 besten Optionen für Sie heraussuchen .	10.730926513671875	4.922525405883789
+Zuerst ist Taco Bell , ein familienfreundliches Fast Food mit vegetarischen Optionen und mexikanischen Gerichten . Dann gibt es Chando ' s Taco ' s Local Counter-Serve-Kette , die das mexikanische Straßenessen & Bier im Tijuana-Stil serviert .	13.706884384155273	2.5109925270080566
+Chando ' s Taco ' s .	12.218955993652344	1.4394593238830566
+Beto ' s Tacos .	12.393715858459473	1.4609489440917969
+Manchmal . Ich denke , derzeit gibt es eine Shrimp-Option .	11.339733123779297	1.7800087928771973
+Ja , sie haben einen besonderen Fisch Taco .	11.878694534301758	13.369865417480469
+Ja .	12.776505470275879	2.691800117492676
+( 916 ) 924-9402 .	12.109262466430664	12.805646896362305
+Lassen Sie mich wissen , ob ich das wiederholen muss .	11.663233757019043	3.778165817260742
+( 916 ) 924-9402 .	12.109262466430664	12.805646896362305
+Großartig , ich hoffe , Sie haben eine gute Zeit . Ich freue mich , Ihnen zu helfen .	10.870038032531738	6.145540237426758
+Gleichfalls !	12.485855102539062	6.015750885009766
+Hallo , wie kann ich Ihnen helfen ?	11.523006439208984	0.9035266637802124
+sicher , welche Beläge möchten Sie ?	11.836894035339355	2.5689611434936523
+Ok , welche Art von Kruste ?	11.458538055419922	2.115910768508911
+Irgendwelche anderen speziellen Anweisungen ?	12.297354698181152	3.108585834503174
+Also 3 Peperoni und extra Käse mit glutenfreier Kruste , richtig ?	10.736150741577148	3.7295470237731934
+Ihre Summe wird 34 $ betragen .	11.730935096740723	2.111837863922119
+Gern geschehen . Ihre Pizzen werden in Kürze bei Bella Luna abholbereit sein .	11.816407203674316	1.8359763622283936
+Hallo , wie kann ich Ihnen helfen ?	10.872593879699707	4.023120880126953
+Ok , und wie lautet das Ziel ?	11.3518648147583	2.5408029556274414
+Verstanden . Ich habe den Walmart auf der 24. Avenue gefunden . Wie viele sind in Ihrer Gruppe ?	12.087632179260254	2.9574246406555176
+Welche Art von Uber wollten Sie verwenden ?	11.48643684387207	1.7876096963882446
+Ein Uber XL für 4 Personen kostet 14.72 $ und die Fahrt dauert etwa 7 Minuten .	11.770042419433594	-1.5429871082305908
+Möchten Sie den Fahrer so einstellen , dass er Sie jetzt abholt ?	11.988327980041504	2.808129072189331
+Ok . Ich habe den Fahrer gebucht . Sie werden in 6 Minuten da sein .	11.884199142456055	2.9871296882629395
+brauchen Sie noch etwas ?	11.067412376403809	-0.5716338157653809
+Ich wünsche Ihnen einen schönen Tag .	11.364466667175293	1.2438104152679443
+Hallo , wie kann ich Ihnen helfen ?	11.012655258178711	3.678159236907959
+Ok , welche Art von Essen mögen Sie ?	10.82376480102539	4.653040885925293
+Einen Moment , während ich nach einem Restaurant für Sie suche .	11.240165710449219	1.9115753173828125
+Ich habe ein paar Optionen für Sie .	11.40641975402832	4.708125114440918
+R & G Lounge und Hunan Home ' s Resaurant .	12.032122611999512	1.1139132976531982
+Es ist moderat teuer .	11.786602973937988	4.83029842376709
+Lassen Sie mich das für Sie überprüfen .	11.68376350402832	4.699757099151611
+Sie haben keine Weinkarte , aber sie haben lokale Biere .	11.22996711730957	-1.727537751197815
+ok , möchten Sie heute Abend eine Reservierung vornehmen ?	11.03750228881836	2.2565836906433105
+Sicher , lassen Sie mich das für Sie buchen .	11.320298194885254	2.956162452697754
+Ok , Sie haben einen Tisch für 2 Personen um 18 Uhr in der R & G Lounge gebucht .	12.075601577758789	4.960859298706055
+Danke .	12.107218742370605	2.6838972568511963
+Hallo ! Wie kann ich helfen ?	10.973337173461914	3.3694968223571777
+Sicher ! Ich kann helfen !	10.654492378234863	5.974520683288574
+Welche Art von Küche möchten Sie ?	11.321457862854004	7.345238208770752
+Außer Vegan ?	11.99232006072998	1.15956449508667
+Okay ! Welche Merkmale sollte das Restaurant haben ? Eine gute Aussicht ? günstige Preise ?	11.578482627868652	13.585429191589355
+So etwas ?	11.78826904296875	0.3090091943740845
+In Ordnung ! Geben Sie mir einen Moment Zeit , um nach etwas zu suchen .	11.513096809387207	4.1343889236450195
+Okay , ich habe ein paar für Sie gefunden !	10.80423355102539	-0.8939148187637329
+Das Baladie Gourmet Cafe ist ein Restaurant im mediterranen Stil .	11.219769477844238	0.1562899947166443
+Sicher !	12.212264060974121	5.037252426147461
+Indochine Vegan .	12.439493179321289	5.257048606872559
+Komfortables Cafe mit einem vibe in der Nachbarschaft mit veganen asiatischen Gerichten , von Pho bis zu Kurven .	13.552531242370605	-1.946364402770996
+Wunderbar !	11.994860649108887	3.609286308288574
+Sie möchten eine Reservierung für heute Abend vornehmen .	11.512277603149414	11.951569557189941
+Ist das richtig ?	12.214346885681152	1.9625221490859985
+Okay , und für wie viele Leute ?	11.28109073638916	2.871224880218506
+Okay ! Lassen Sie mich sehen , was sie verfügbar sind .	11.054865837097168	0.8227784037590027
+Sie scheinen um 19 : 30 Uhr einen freien Termin zu haben .	11.759515762329102	0.47187113761901855
+Großartig ! Geben Sie mir einen Moment Zeit , um es für Sie zu bestätigen .	11.483185768127441	1.6269338130950928
+Alles klar , Ihr Tisch für 3 ist für heute Abend um 19 : 30 Uhr im Indochine Vegan .	12.175085067749023	5.47013521194458
+Sehr gern geschehen .	12.041994094848633	0.9366837739944458
+Ich wünsche Ihnen einen schönen Tag !	11.006092071533203	2.7056777477264404
+Danke ! Tschüss .	11.614167213439941	0.7832325100898743
+Hallo , wie kann ich Ihnen helfen ?	11.006464958190918	3.554126501083374
+Sicher , ich kann helfen , Optionen zu finden . Welche Art von Essen möchten Sie ?	11.27149486541748	3.938924789428711
+Ok , ich habe ein paar Optionen gefunden , die Ihren Kriterien entsprechen . Das erste heißt Joe ' s Crab Shack . Informelle Meeresfrüchte-Kette mit Krabben & gepressten Shrimps sowie amerikanischen Komfortgerichten .	13.707027435302734	-0.06144338101148605
+Die zweite heißt kochendes Kreb. leider gibt es keine Beschreibung darüber online .	9.9373140335083	-0.656870424747467
+Aber es hat eine 4,5-Sterne-Bewertung .	11.306302070617676	1.1209913492202759
+und über 700 Bewertungen .	12.03022575378418	3.029268503189087
+Ja , beide befinden sich in der gleichen Preisklasse .	11.46552848815918	0.5646264553070068
+15 $ pro Person .	12.121479034423828	3.3827285766601562
+Beide wurden als kinderfreundlich eingestuft .	11.691482543945312	-1.7547129392623901
+gute Wahl .	12.45732593536377	-0.4645772874355316
+Sicher kann ich das . Die Nummer ist ( 9 1 6 ) . 2 8 1. 0 2 9 1 .	11.179642677307129	4.867362976074219
+Ja das ist richtig .	12.02773380279541	0.6442081332206726
+Brauchen Sie sonst noch etwas ?	11.477482795715332	-0.09442591667175293
+in Ordnung . Ich wünsche Ihnen einen schönen Tag .	11.450634956359863	11.088394165039062
+Guten Tag , wie kann ich Ihnen heute helfen ?	11.135577201843262	-1.739790439605713
+Sicher kann ich das . Wo wollen Sie abgeholt werden ?	11.522732734680176	-1.3850914239883423
+Danke , dass Sie die Adresse für mich angegeben haben . Wo möchten Sie abgesetzt werden ?	10.5511474609375	3.279783010482788
+Verstanden . Wie viele Leute sind in Ihrer Gruppe und welche Art von Fahrt möchten Sie ?	10.932562828063965	2.963505744934082
+Eine Mitfahrgelegenheit für zwei Personen wird $ 21.02 kosten und die Fahrt dauert ungefähr 25 Minuten .	10.843038558959961	1.1590057611465454
+Soll ich die Fahrt buchen , um Sie jetzt abzuholen ?	11.483681678771973	1.2822239398956299
+Ok , ich habe es für heute Abend um 9. Der Fahrer holt Sie in der Werkstatt schnell um 9 Uhr ab .	11.256658554077148	-0.689091145992279
+Brauchen Sie sonst noch etwas ?	11.477482795715332	1.6534407138824463
+in Ordnung . Passen Sie auf sich auf .	11.998817443847656	-0.9222241640090942
+Hallo , was möchten Sie heute machen ?	11.44818115234375	4.109564781188965
+Pizza-Bestellung von Bella Luna abholen , sicher kann ich Ihnen dabei helfen .	10.977518081665039	1.0747215747833252
+Wie viele Pizzen möchten Sie heute bestellen ?	11.505791664123535	6.863417625427246
+3 kleine , verstanden , was sind Ihre Beläge ?	10.415606498718262	3.0766685009002686
+1 mit Zwiebel , 1 mit Tomaten und 1 mit Brokkoli ist das richtig ?	10.608926773071289	-1.3075040578842163
+Irgendwelche anderen speziellen Anweisungen ?	12.17438793182373	-1.3670401573181152
+Ok , lassen Sie uns Ihre Bestellung überprüfen , einen Moment bitte .	11.234880447387695	1.4666519165039062
+Das sind also 3 kleine Pizzen , 1 mit Zwiebel , 1 mit Tomaten und 1 mit Brokkoli , alle mit extra Käse , ist das richtig ?	10.311104774475098	-2.105414628982544
+Okay , Ihre Gesamtsumme beläuft sich auf 36 Dollar . Soll ich fortfahren und bestellen ?	10.918804168701172	-0.5759006142616272
+Es wird 30 Minuten dauern .	12.082143783569336	3.7548794746398926
+Ok , Ihre Pizza ist in der örtlichen Pizzeria Bella Luna bestellt .	10.86256217956543	3.191441297531128
+Möchten Sie noch etwas anderes ?	11.75020694732666	2.1471102237701416
+Gern geschehen , genießen Sie Ihre Pizza .	10.941438674926758	2.153402090072632
+Hallo .	12.381677627563477	1.9044126272201538
+Ausgezeichnet ! Einen Moment .	12.245560646057129	3.940092086791992
+Wie lautet der Name der Bar ?	11.968189239501953	1.5100996494293213
+Und könnten Sie mich an Ihre Home-Addres erinnern ?	11.015626907348633	7.838786602020264
+In Ordung .	12.541031837463379	3.522149085998535
+Ein Uber XL kostet also 19,92 $ .	11.985447883605957	2.4603238105773926
+Soll ich es buchen ?	11.760319709777832	-0.18116158246994019
+Ich kann Ihnen sagen , wie lange ich es buchen muss .	10.973275184631348	2.307326316833496
+Ihr Fahrer wird in einem Uber XL in 10 Minuten ankommen .	11.57651424407959	3.2274703979492188
+Bitte draußen sein .	11.73122501373291	0.11029526591300964
+Gute Fahrt .	11.768902778625488	2.7193105220794678
+Hallo , wie kann ich Ihnen helfen ?	11.153584480285645	3.3387372493743896
+Ok , bitte geben Sie Ihren Namen und Ihre Nummer an .	11.069296836853027	1.330305814743042
+Ok , wir planen für Ryan , 630-815-2211 , ist das richtig ?	10.773223876953125	3.629148483276367
+Toll , welche Probleme haben Sie mit Ihrem Lexus ?	11.064011573791504	3.4202733039855957
+Ok , wann möchten Sie Ihren Termin vereinbaren ?	11.420936584472656	4.177854537963867
+Wäre das der 8. oder der 15. ?	11.271160125732422	3.6466360092163086
+Verstanden , lassen Sie mich sehen , welche Zeiten sie zur Verfügung haben .	11.13814926147461	3.7674341201782227
+Es sieht so aus , als hätten sie einen freien Termin um 8 : 30 Uhr . Passt das für Sie ?	10.436383247375488	-0.5564585328102112
+Ok , lassen Sie mich das für Sie planen , einen Moment .	11.361530303955078	1.3552762269973755
+Bitte beachten Sie , dass es eine Inspektionsgebühr in Höhe von 89 $ gibt , diese kann jedoch auf die Reparaturkosten angerechnet werden .	10.734097480773926	-1.323837161064148
+Ok , ich habe einen Termin für Freitag , den 8. um 8 : 30 Uhr für Ihren 2015 Lexus RX 350 , der beim Abbiegen Geräusche macht , vereinbart . Kann ich mit irgendetwas anderem helfen ?	13.502653121948242	12.359009742736816
+Toll , fahren Sie sicher .	12.12623405456543	1.8598415851593018
